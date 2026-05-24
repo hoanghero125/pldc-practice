@@ -127,13 +127,15 @@ function renderQ() {
   $('q-label').textContent = `Câu ${q.num}`;
   $('q-text').textContent = q.question;
 
+  const posLabels = ['A', 'B', 'C', 'D'];
   const container = $('options');
   container.innerHTML = '';
   q.opts.forEach((opt, i) => {
     const btn = document.createElement('button');
     btn.className = 'opt-btn';
+    btn.dataset.key = opt.key;
     btn.style.animationDelay = (i * 0.06) + 's';
-    btn.innerHTML = `<span class="opt-key">${opt.key}</span><span class="opt-text">${opt.text}</span>`;
+    btn.innerHTML = `<span class="opt-key">${posLabels[i]}</span><span class="opt-text">${opt.text}</span>`;
     btn.addEventListener('click', () => answer(opt.key, q));
     container.appendChild(btn);
   });
@@ -169,7 +171,7 @@ function answer(selected, q) {
   $('options').querySelectorAll('.opt-btn').forEach(btn => {
     btn.disabled = true;
     const keyEl = btn.querySelector('.opt-key');
-    const key = keyEl.textContent.trim().toLowerCase();
+    const key = btn.dataset.key;
     if (key === q.ans) {
       btn.classList.add('state-correct');
       keyEl.textContent = '✓';
