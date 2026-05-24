@@ -1,5 +1,5 @@
 // ── State ──
-let batchSize = 20, rangeIdx = 0, shuffleQ = false, shuffleA = false, randomMode = false;
+let batchSize = 25, rangeIdx = 0, shuffleQ = false, shuffleA = false, randomMode = false;
 let quizQs = [], cur = 0, answered = false, okCount = 0, badCount = 0;
 let history = [];
 
