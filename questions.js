@@ -184,8 +184,8 @@ const QUESTIONS = [
     q: "Nhà nước quân chủ là nhà nước…",
     a: "Quyền lực nhà nước tối cao tập trung vào người đứng đầu nhà nước và được hình thành do bầu cử",
     b: "Quyền lực nhà nước tối cao thuộc về người đứng đầu nhà nước hay thuộc về một tập thể, và được hình thành do bầu cử",
-    c: "Quyền lực nhà nước tối cao tập trung toàn bộ hay một phần chủ yếu vào tay người đứng đầu nhà nước theo nguyên tắc thừa kế D.Tất cả đều sai",
-    d: "",
+    c: "Quyền lực nhà nước tối cao tập trung toàn bộ hay một phần chủ yếu vào tay người đứng đầu nhà nước theo nguyên tắc thừa kế",
+    d: "Tất cả đều sai",
     ans: "c"
   },
   {
@@ -586,15 +586,6 @@ const QUESTIONS = [
   },
   {
     num: 66,
-    q: "Ưu thế vượt trội của pháp luật so với các quy phạm xã hội khác là?",
-    a: "Tính cưỡng chế",
-    b: "Tính rộng rãi",
-    c: "Tính xã hội",
-    d: "Tồn tại trong thời gian dài",
-    ans: "a"
-  },
-  {
-    num: 67,
     q: "Chọn phương án đúng nhất: Hình thức nhà nước thừa nhận một số tập quán lưu truyền trong xã hội và quy định thành cách xử sự chung là hình thức pháp luật nào sau đây?",
     a: "Tập quán pháp",
     b: "Văn bản quy phạm pháp luật",
@@ -603,7 +594,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 68,
+    num: 67,
     q: "Điền vào chỗ trống, Hồ Chí Minh: “Pháp luật của ta là pháp luật thật sự dân chủ vì nó bảo vệ....... rộng rãi cho nhân dân lao động”.",
     a: "Lợi ích chính đáng",
     b: "Quyền và nghĩa vụ",
@@ -612,7 +603,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 69,
+    num: 68,
     q: "Bản chất giai cấp của Pháp luật Việt Nam là…",
     a: "Đảm bảo lợi ích của giai cấp công nhân và nhân dân lao động Việt Nam",
     b: "Đảm bảo lợi ích của giai cấp lãnh đạo, nhưng giai cấp công nhân và nông dân được tự do dân chủ",
@@ -621,7 +612,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 70,
+    num: 69,
     q: "Quy phạm pháp luật là những quy tắc xử sự mang tính bắt buộc thể hiện ý chí của:",
     a: "Nhà nước",
     b: "Tổ chức xã hội",
@@ -630,7 +621,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 71,
+    num: 70,
     q: "Nhận định nào sau đây là SAI?",
     a: "Tập quán pháp là hình thức Nhà nước thừa nhận một số tập quán lưu truyền trong xã hội và quy định thành cách xử sự chung, được Nhà nước bảo đảm thực hiện",
     b: "Hình thức tập quán pháp được sử dụng nhiều trong Nhà nước xã hội chủ nghĩa",
@@ -639,7 +630,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 72,
+    num: 71,
     q: "Trong các hành vi sau đây, hành vi nào phải chịu trách nhiệm về mặt hình sự?",
     a: "Vượt đèn đỏ, gây tai nạn chết người",
     b: "Đi ngược chiều",
@@ -648,7 +639,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 73,
+    num: 72,
     q: "Nghị định là văn bản quy phạm pháp luật do cơ quan Nhà nước có thẩm quyền ban hành là:",
     a: "Chính phủ",
     b: "Uỷ ban thường vụ quốc hội",
@@ -657,7 +648,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 74,
+    num: 73,
     q: "Bộ phận nào của quy phạm pháp luật nêu lên cách thức xử sự cho chủ thể được làm, không được làm, phải làm:",
     a: "Giả định",
     b: "Quy định",
@@ -666,7 +657,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 75,
+    num: 74,
     q: "Trong các nghĩa vụ sau đây nghĩa vụ nào KHÔNG phải là nghĩa vụ pháp lý?",
     a: "Đoàn viên thanh niên phải chấp hành điều lệ của Đoàn",
     b: "Người kinh doanh phải thực hiện nghĩa vụ nộp thuế",
@@ -675,7 +666,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 76,
+    num: 75,
     q: "Hình thức pháp luật này ngày càng được sử dụng rộng rãi ở các quốc gia vì nó khắc phục được những hạn chế của các hình thức pháp luật khác và có tính rõ ràng, cụ thể, được ban hành theo trình tự, thủ tục nhất định, đó là?",
     a: "Tiền lệ pháp",
     b: "Tập quán pháp",
@@ -684,7 +675,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 77,
+    num: 76,
     q: "Anh A lái xe máy và lưu thông đúng luật. Chị B đi xe đạp không quan sát và bất ngờ băng ngang qua đường làm anh A bị thương (giám định là 10%). Theo bạn trường hợp này xử phạt như thế nào?",
     a: "Cảnh cáo và buộc chị B phải bồi thường thiệt hại cho gia đình anh A",
     b: "Cảnh cáo phạt tiền chị B",
@@ -693,7 +684,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 78,
+    num: 77,
     q: "Chọn phương án đúng nhất: Một trong những đặc điểm để phân biệt pháp luật với quy phạm đạo đức là:",
     a: "Pháp luật có tính quyền lực, bắt buộc chung",
     b: "Pháp luật có tính quyền lực",
@@ -702,7 +693,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 79,
+    num: 78,
     q: "Pháp luật là phương tiện để công dân:",
     a: "Sống tự do, dân chủ",
     b: "Thực hiện và bảo vệ quyền, lợi ích hợp pháp của mình",
@@ -711,7 +702,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 80,
+    num: 79,
     q: "Quản lí bằng pháp luật là phương pháp quản lí…",
     a: "hữu hiệu và phức tạp nhất.",
     b: "dân chủ và hiệu quả nhất",
@@ -720,7 +711,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 81,
+    num: 80,
     q: "Bộ phận đảm bảo cho quy phạm pháp luật được thực hiện nghiêm chỉnh là…?",
     a: "Quy định",
     b: "Giả định",
@@ -729,7 +720,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 82,
+    num: 81,
     q: "Thời điểm năng lực pháp lụât và năng lực hành vi của pháp nhân được nhà nước công nhận là:",
     a: "Cùng một thời điểm",
     b: "Năng lực pháp luật được công nhận trước năng lực hành vi",
@@ -738,7 +729,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 83,
+    num: 82,
     q: "Nội dung của quan hệ pháp luật là:",
     a: "Quyền và nghĩa vụ của các chủ thể trong quan hệ pháp luật",
     b: "Những giá trị mà các chủ thể quan hệ pháp luật muốn đạt được",
@@ -747,7 +738,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 84,
+    num: 83,
     q: "Khi nào pháp nhân có năng lực chủ thể:",
     a: "Khi nhà nước cho phép hoặc công nhận sự thành lập của pháp nhân",
     b: "Khi tổ chức có đủ số thành viên",
@@ -756,7 +747,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 85,
+    num: 84,
     q: "Khả năng của chủ thể bằng chính hành vi của mình thực hiện được các quyền và nghĩa vụ mà pháp luật quy định, đó là:",
     a: "Năng lực pháp luật",
     b: "Năng lực hành vi",
@@ -765,7 +756,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 86,
+    num: 85,
     q: "Điền từ vào chỗ trống: Pháp luật là hệ thống các quy tắc xử sự chung do ……… ban hành và đảm bảo thực hiện bằng quyền lực nhà nước.",
     a: "Đảng",
     b: "Chính phủ",
@@ -774,7 +765,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 87,
+    num: 86,
     q: "Các quy tắc xử sự (việc được làm, việc phải làm, việc không được làm) thể hiện vấn đề nào của pháp luật?",
     a: "Phương thức tác động",
     b: "Nội dung",
@@ -783,7 +774,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 88,
+    num: 87,
     q: "Chọn phương án đúng nhất: Nhà nước Việt Nam điều hành đất nước bằng…",
     a: "Văn hoá, giáo dục, chính trị",
     b: "Kế hoạch phát triển kinh tế",
@@ -792,7 +783,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 89,
+    num: 88,
     q: "Tiêu chuẩn xác định một hệ thống pháp luật hoàn thiện là?",
     a: "Tính toàn diện, tính đồng bộ",
     b: "Tính phù hợp",
@@ -801,7 +792,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 90,
+    num: 89,
     q: "Chọn phương án đúng nhất: Năng lực hành vi của cá nhân chỉ xuất hiện khi?",
     a: "Cá nhân đủ 18 tuổi, không mắc bệnh tâm thần",
     b: "Cá nhân đủ 16 tuổi, có trí óc bình thường",
@@ -810,7 +801,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 91,
+    num: 90,
     q: "Một tổ chức có tư cách pháp nhân khi có điều kiện?",
     a: "Được thành lập hợp pháp, có cơ cấu tổ chức chặt chẽ",
     b: "Có tài sản độc lập với cá nhân, tổ chức khác",
@@ -819,7 +810,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 92,
+    num: 91,
     q: "Các quy phạm pháp luật bắt nguồn từ đâu?",
     a: "Từ tư duy trừu tượng của con người",
     b: "Từ quyền lực của giai cấp thống trị",
@@ -828,7 +819,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 93,
+    num: 92,
     q: "“Pháp luật là của ai, do ai và vì ai?” Đề cập đến vấn đề nào của pháp luật?",
     a: "Nội dung của pháp luật.",
     b: "Hình thức thể hiện của pháp luật",
@@ -837,7 +828,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 94,
+    num: 93,
     q: "Cá nhân có năng lực hành vi đầy đủ khi:",
     a: "Từ đủ 15 tuổi trở lên",
     b: "Từ đủ 21 tuổi trở lên",
@@ -846,7 +837,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 95,
+    num: 94,
     q: "Quan hệ xã hội nào sau đây không phải là quan hệ pháp luật?",
     a: "Quan hệ vợ – chồng",
     b: "Quan hệ mua – bán",
@@ -855,7 +846,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 96,
+    num: 95,
     q: "Tổ chức được thành lập hợp pháp được gọi là:",
     a: "Pháp nhân",
     b: "Thể nhân",
@@ -864,7 +855,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 97,
+    num: 96,
     q: "Kết hôn là:",
     a: "Hành vi pháp lý",
     b: "Sự biến pháp lý",
@@ -873,7 +864,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 98,
+    num: 97,
     q: "Chủ thể thực hiện vi phạm hình sự có thể là…",
     a: "Cá nhân có năng lực trách nhiệm hình sự",
     b: "Tổ chức là pháp nhân",
@@ -882,7 +873,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 99,
+    num: 98,
     q: "Điền từ vào chỗ trống: “Pháp luật là hệ thống quy tắc xử sự mang tính ............., do............ ban hành và bảo đảm thực hiện, thể hiện ................. của giai cấp thống trị và phụ thuộc vào các điều kiện ..............., là nhân tố điều chỉnh các quan hệ xã hội”.",
     a: "Bắt buộc – quốc hội – ý chí – chính trị",
     b: "Bắt buộc chung – nhà nước – lý tưởng – chính trị",
@@ -891,7 +882,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 100,
+    num: 99,
     q: "Chọn phương án đúng nhất: Nói đến vai trò của pháp luật đối với sự phát triển bền vững của đất nước là nói đến sự tác động của pháp luật đối với…",
     a: "Các lĩnh vực của đời sống xã hội",
     b: "Lĩnh vực bảo vệ môi trường",
@@ -900,7 +891,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 101,
+    num: 100,
     q: "Hành vi tổ chức đánh bạc của công chức, viên chức nhà nước bị công an bắt quả tang được xác định là hành vi:",
     a: "Vi phạm hình sự",
     b: "Vi phạm công vụ",
@@ -909,7 +900,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 102,
+    num: 101,
     q: "Xác định phương án SAI: Khi phát sinh tranh chấp về quyền và nghĩa vụ giữa các chủ thể thì…",
     a: "Các chủ thể không có quyền tự giải quyết tranh chấp",
     b: "Các chủ thể có thể nhờ người hòa giải",
@@ -918,7 +909,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 103,
+    num: 102,
     q: "Lịch sử xã hội loài người đã và đang trải qua mấy kiểu pháp luật?",
     a: "2 kiểu pháp luật",
     b: "4 kiểu pháp luật",
@@ -927,7 +918,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 104,
+    num: 103,
     q: "Ông B tổ chức buôn ma túy, hỏi ông B phải chịu trách nhiệm pháp lý nào?",
     a: "Trách nhiệm hành chính",
     b: "Trách nhiệm hình sự",
@@ -936,7 +927,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 105,
+    num: 104,
     q: "Chế tài nào sau đây chỉ do Tòa án áp dụng:",
     a: "Chế tài hành chính",
     b: "Chế tài hình sự",
@@ -945,7 +936,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 106,
+    num: 105,
     q: "Bồi thường thiệt hại là chế tài:",
     a: "Dân sự",
     b: "Hình sự",
@@ -954,7 +945,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 107,
+    num: 106,
     q: "Điền vào chỗ trống: Chủ thể vi phạm pháp luật là cá nhân hoặc tổ chức có ...... đã thực hiện hành vi vi phạm pháp luật?",
     a: "Khả năng",
     b: "Năng lực hành vi",
@@ -963,7 +954,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 108,
+    num: 107,
     q: "Trường hợp nào sau đây thì mới được bắt, giam, giữ người",
     a: "Bắt người khi đang bị tình nghi có hành vi vi phạm pháp luật",
     b: "Bắt người phạm tội quả tang hoặc đang bị truy nã",
@@ -972,7 +963,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 109,
+    num: 108,
     q: "Ở Việt Nam, cứ đến ngày Quốc khánh (2/9) người nào cải tạo tốt, biết hối cải thì được Chủ tịch nước ân xá cho ra tù trước thời hạn. Thể hiện bản chất nào của pháp luật?",
     a: "Bản chất giai cấp",
     b: "Bản chất xã hội",
@@ -981,7 +972,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 110,
+    num: 109,
     q: "Chọn phương án đúng nhất: Phương thức tác động của nhà nước lên quan hệ pháp luật là…",
     a: "giáo dục, thuyết phục và cưỡng chế",
     b: "giáo dục, cưỡng chế",
@@ -990,7 +981,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 111,
+    num: 110,
     q: "Lệnh là văn bản quy phạm pháp luật do cơ quan nào sau đây ban hành?",
     a: "Thủ tướng Chính phủ",
     b: "Chủ tịch Quốc hội",
@@ -999,7 +990,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 112,
+    num: 111,
     q: "Khẳng định nào SAI khi nghiên cứu về mặt chủ quan của vi phạm pháp luật?",
     a: "Động cơ là cái thúc đẩy chủ thể thực hiện hành vi vi phạm pháp luật",
     b: "Lỗi là một trong những căn cứ để xác định mức độ trách nhiệm pháp lý đối với chủ thể vi phạm pháp luật",
@@ -1008,7 +999,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 113,
+    num: 112,
     q: "Những biểu hiện, diễn biến tâm lý bên trong của chủ thể vi phạm pháp luật gọi là?",
     a: "Mặt chủ quan của vi phạm pháp luật",
     b: "Nhận thức, thái độ của chủ thể",
@@ -1017,7 +1008,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 114,
+    num: 113,
     q: "Khi nghiên cứu về chủ thể quan hệ pháp luật thì khẳng định nào sau đây là đúng?",
     a: "Tất cả mọi cá nhân đều có thể trở thành chủ thể của quan hệ pháp luật",
     b: "Tất cả mọi tổ chức đều có thể trở thành chủ thể của quan hệ pháp luật",
@@ -1026,7 +1017,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 115,
+    num: 114,
     q: "A đánh B gây thương tích 15%, theo bạn, Bộ luật hình sự năm 2015 sửa đổi bổ sung năm 2017 thì A phải chịu hình phạt nào?",
     a: "Răn đe, giáo dục",
     b: "Bồi thường thiệt hại",
@@ -1035,7 +1026,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 116,
+    num: 115,
     q: "Các quyền và nghĩa vụ pháp lý cơ bản của công dân được qui định trong…",
     a: "Luật hành chính",
     b: "Luật hôn nhân - gia đình",
@@ -1044,7 +1035,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 117,
+    num: 116,
     q: "Chủ thể có năng lực trách nhiệm pháp lý khi có đủ điều kiện sau?",
     a: "Từ 18 tuổi trở lên và có trí óc bình thường",
     b: "Đạt độ tuổi do pháp luật quy định, có năng lực pháp luật",
@@ -1053,7 +1044,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 118,
+    num: 117,
     q: "Khi nghiên cứu về quyền chủ thể trong quan hệ pháp luật, thì khẳng định nào sau đây là ĐÚNG?",
     a: "Khả năng được lựa chọn những xử sự theo ý muốn chủ quan của mình",
     b: "Khả năng yêu cầu các chủ thể khác thực hiện nghĩa vụ để bảo đảm việc thực hiện quyền của mình",
@@ -1062,7 +1053,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 119,
+    num: 118,
     q: "Nhận định nào sau đây SAI khi nói đến vai trò của pháp luật…",
     a: "Pháp luật là phương tiện để Nhà nước quản lý mọi mặt đời sống xã hội",
     b: "Pháp luật là phương tiện thực hiện và bảo vệ quyền, lợi ích hợp pháp của mỗi công dân",
@@ -1071,25 +1062,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 120,
-    q: "Nội dung nào sau đây phù hợp với tính quy phạm và phổ biến của pháp luật?",
-    a: "Phạm vi tác động của quy phạm xã hội rộng hơn so với pháp luật",
-    b: "Ai cũng cần phải thực hiện theo các tín điều tôn giáo được ban hành",
-    c: "Cơ quan có quyền ban hành pháp luật thì cũng có quyền không thực hiện pháp luật",
-    d: "Phạm vi tác động của pháp luật rộng lớn cả về không gian, thời gian và đối tượng áp dụng",
-    ans: "d"
-  },
-  {
-    num: 121,
-    q: "Ưu thế vượt trội của pháp luật so với các quy phạm xã hội khác là?",
-    a: "Tính cưỡng chế",
-    b: "Tính rộng rãi",
-    c: "Tồn tại trong thời gian dài",
-    d: "Tính xã hội",
-    ans: "a"
-  },
-  {
-    num: 122,
+    num: 119,
     q: "Nghĩa vụ pháp lý của chủ thể gồm có?",
     a: "Chủ thể phải tiến hành một số hành vi nhất định do pháp luật quy định",
     b: "Chủ thể phải tự kiềm chế, không được thực hiện một số hành vi nhất định",
@@ -1098,7 +1071,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 123,
+    num: 120,
     q: "Trong các yếu tố cấu thành hệ thống pháp luật, yếu tố được xem là đơn vị cơ bản nhỏ nhất trong hệ thống pháp luật là:",
     a: "Quy phạm pháp luật",
     b: "Chế định pháp luật",
@@ -1107,7 +1080,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 124,
+    num: 121,
     q: "Các quy phạm pháp luật có đặc điểm chung giống nhau để điều chỉnh một nhóm quan hệ xã hội tương ứng, đó chính là:",
     a: "Quy phạm pháp luật",
     b: "Chế định pháp luật",
@@ -1116,7 +1089,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 125,
+    num: 122,
     q: "Tổng hợp các quy phạm pháp luật điều chỉnh một lĩnh vực nhất định của đời sống xã hội, đó chính là:",
     a: "Quy phạm pháp luật",
     b: "Chế định pháp luật",
@@ -1125,7 +1098,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 126,
+    num: 123,
     q: "Chọn phương án đúng nhất: Pháp luật là công cụ bảo vệ lợi ích của…?",
     a: "Tổ chức tôn giáo",
     b: "Giai cấp thống trị",
@@ -1134,7 +1107,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 127,
+    num: 124,
     q: "Tính cưỡng chế của pháp luật được thể hiện:",
     a: "Những hành vi vi phạm pháp luật đều bị xử phạt hành chính",
     b: "Những hành vi vi phạm pháp luật đều bị áp dụng hình phạt",
@@ -1143,7 +1116,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 128,
+    num: 125,
     q: "Pháp luật và đạo đức là hai hiện tượng…",
     a: "Đều mang tính quy phạm",
     b: "Đều mang tính quy phạm bắt buộc chung",
@@ -1152,7 +1125,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 129,
+    num: 126,
     q: "Vi phạm hình sự ở mức độ tội phạm nghiêm trọng, khung hình cao nhất là…",
     a: "7 năm",
     b: "5 năm",
@@ -1161,7 +1134,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 130,
+    num: 127,
     q: "Đạo luật nào dưới đây quy định một cách cơ bản về chế độ chính trị, chế độ kinh tế, văn hóa, xã hội và tổ chức bộ máy nhà nước.",
     a: "Luật tổ chức Quốc hội",
     b: "Luật tổ chức Chính phủ",
@@ -1170,7 +1143,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 131,
+    num: 128,
     q: "Thừa kế là chế định quan trọng của ngành luật nào sau đây?",
     a: "Luật Tố tụng dân sự",
     b: "Luật Hình sự",
@@ -1179,7 +1152,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 132,
+    num: 129,
     q: "A và B đua xe, lạng lách đánh võng trên đường và bị cảnh sát giao thông xử lý. Theo em, A và B phải chịu trách nhiệm pháp lý nào?",
     a: "Cảnh cáo, phạt tiền, giam xe",
     b: "Cảnh cáo, phạt tiền",
@@ -1188,7 +1161,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 133,
+    num: 130,
     q: "Cảnh sát giao thông xử phạt người chở hang cồng kềnh khi tham gia giao thông là biểu hiện của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -1197,7 +1170,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 134,
+    num: 131,
     q: "Các hình thức thực hiện pháp luật theo thứ tự là:",
     a: "Sử dụng pháp luật, thi hành pháp luật, áp dụng pháp luật và tuân thủ pháp luật",
     b: "Tuân thủ pháp luật, thi hành pháp luật, sử dụng pháp luật và áp dụng pháp luật",
@@ -1206,7 +1179,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 135,
+    num: 132,
     q: "Các trường hợp chiếm hữu nào sau đây là chiếm hữu không có căn cứ pháp luật:",
     a: "Chiếm hữu vật đánh rơi không khai báo",
     b: "Chiếm hữu của chủ sở hữu vật",
@@ -1215,7 +1188,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 136,
+    num: 133,
     q: "Các trường hợp quyền định đoạt tài sản của chủ sở hữu bị hạn chế:",
     a: "Bán vật là di tích lịch sử",
     b: "Bán vật đang thế chấp",
@@ -1224,7 +1197,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 137,
+    num: 134,
     q: "Chọn phương án đúng nhất: Hàng thừa kế thứ nhất theo quy định pháp luật về thừa kế:",
     a: "Con nuôi của người chết",
     b: "Con đẻ của người chết",
@@ -1233,7 +1206,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 138,
+    num: 135,
     q: "Hành vi không lạng lách, đánh võng khi đi xe máy trên đường của anh A là biểu hiện hình thức thự hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Tuân thủ pháp luật",
@@ -1242,7 +1215,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 139,
+    num: 136,
     q: "Ông B đi vào đường ngược chiều, chưa gây tai nạn cho ai nhưng cảnh sát giao thông đã xử phạt với việc xử phạt đó nhằm mục đích gì?",
     a: "Ngăn chặn không để gây tai nạn cho chính ông B",
     b: "Chấm dứt hành vi vi phạm pháp luật (đi ngược chiều)",
@@ -1251,7 +1224,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 140,
+    num: 137,
     q: "Trong các hành vi dưới đây hành vi nào thể hiện công dân sử dụng pháp luật?",
     a: "Người kinh doanh trốn thế phải nộp phạt",
     b: "Anh A và chị B đến UBND phường đăng ký kết hôn",
@@ -1260,7 +1233,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 141,
+    num: 138,
     q: "Anh A sử dụng điện thoại di động khi đang điều khiển xe máy. Công an đã xử phạt hành chính anh A. Việc làm của công an là biểu hiện của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Tuân thủ pháp luật",
     b: "Sử dụng pháp luật",
@@ -1269,7 +1242,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 142,
+    num: 139,
     q: "Thực hiện trách nhiệm pháp lý đối với người từ đủ 14 đến dưới 18 tuổi là…",
     a: "Giáo dục, răn đe là chính",
     b: "Có thể bị phạt tù",
@@ -1278,7 +1251,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 143,
+    num: 140,
     q: "Quan hệ xã hội nào dưới đây không phải là quan hệ pháp luật…",
     a: "Anh A và chị B làm thủ tục đăng ký kết hôn",
     b: "Chị G ra chợ mua rau",
@@ -1287,7 +1260,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 144,
+    num: 141,
     q: "Hành vi phạm tội nào sau đây không bị xem là tội phạm:",
     a: "Không đăng ký tạm trú, tạm vắng",
     b: "Trộm cắp tài sản công dân",
@@ -1296,7 +1269,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 145,
+    num: 142,
     q: "Tòa án huyện A tuyên bố bị cáo B mức phạt 2 năm tù vì tội hiếp dâm, là…",
     a: "Sử dụng pháp luật",
     b: "Áp dụng pháp luật",
@@ -1305,7 +1278,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 146,
+    num: 143,
     q: "Các tổ chức, cá nhân chủ động thực hiện quyền (những việc được làm) là:",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -1314,7 +1287,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 147,
+    num: 144,
     q: "Các tổ chức cá nhân chủ động thực hiện nghĩa vụ (những việc phải làm) là…",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -1323,7 +1296,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 148,
+    num: 145,
     q: "Độ tuổi tối thiểu chịu trách nhiệm hình sự là từ đủ:",
     a: "12 tuổi",
     b: "14 tuổi",
@@ -1332,7 +1305,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 149,
+    num: 146,
     q: "Chọn phương án đúng nhất: Sự kiện pháp lý là những sự kiện xảy ra…?",
     a: "Từ hành vi xử sự của con người",
     b: "Từ thực tiễn đời sống xã hội",
@@ -1341,7 +1314,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 150,
+    num: 147,
     q: "Khi nghiên cứu về chủ thể quan hệ pháp luật thì khẳng định nào sau đây là đúng?",
     a: "Mọi cá nhân đều có năng lực hành vi như nhau",
     b: "Mọi cá nhân đạt độ tuổi do luật định được tham gia vào tất cả quan hệ pháp luật",
@@ -1350,7 +1323,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 151,
+    num: 148,
     q: "Khi nghiên cứu về đặc điểm của quan hệ pháp luật thì khẳng định nào sau đây là sai?",
     a: "Quan hệ pháp luật là loại quan hệ có ý chí",
     b: "Quan hệ pháp luật xuất hiện dựa trên cơ sở quy phạm pháp luật",
@@ -1359,7 +1332,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 152,
+    num: 149,
     q: "Các tổ chức cá nhân không làm những việc bị cấm là:",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -1368,7 +1341,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 153,
+    num: 150,
     q: "Quyền lao động của công dân chỉ bắt đầu được thực hiện khi nào?",
     a: "Phải có người có nhu cầu sử dụng lao động (thuê mướn)",
     b: "Công dân phải tìm được vịêc làm",
@@ -1377,7 +1350,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 154,
+    num: 151,
     q: "Quá trình thực hiện pháp luật chỉ đạt hiệu quả khi các chủ thể tham gia quan hệ pháp luật thực hiện…",
     a: "Đúng đắn các quyền của mình theo Hiến pháp và pháp luật",
     b: "Đầy đủ các quyền và nghĩa vụ của mình theo Hiến pháp và pháp luật",
@@ -1386,7 +1359,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 155,
+    num: 152,
     q: "Xác định phương án SAI: Trong một quan hệ pháp luật…",
     a: "Không có chủ thể nào chỉ có quyền mà không có nghĩa vụ",
     b: "Quyền và nghĩa vụ của các chủ thể không tách rời nhau",
@@ -1395,7 +1368,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 156,
+    num: 153,
     q: "Dấu hiệu cơ bản của vi phạm pháp luật là",
     a: "Là hành vi trái pháp luật",
     b: "Do người có năng lực trách nhiệm pháp lý thực hiện",
@@ -1404,7 +1377,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 157,
+    num: 154,
     q: "Nhà nước đưa ra trách nhiệm pháp lý là nhằm:",
     a: "Phạt tiền người vi phạm",
     b: "Buộc chủ thể vi phạm chấm dứt hành vi trái pháp luật, phải chịu những thiệt hại nhất định; giáo dục răn đe những người khác",
@@ -1413,7 +1386,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 158,
+    num: 155,
     q: "Khả năng chủ thể có quyền hoặc có nghĩa vụ pháp lý do Nhà nước quy định, gọi là?",
     a: "Khả năng pháp lý",
     b: "Năng lực pháp luật",
@@ -1422,7 +1395,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 159,
+    num: 156,
     q: "Chọn phương án đúng nhất: Quan hệ pháp luật hình sự là:",
     a: "Quan hệ phát sinh khi có hành vi phạm tội",
     b: "Quan hệ phát sinh giữa người phạm tội với người bị hại",
@@ -1431,7 +1404,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 160,
+    num: 157,
     q: "Bạn A (17 tuổi) vì mâu thuẫn cá nhân với anh B (hàng xóm) nên đã rủ một bạn mang theo hung khí đến anh B, khiến anh B tử vong. Hành vi của bạn A thuộc loại vi phạm pháp luật nào dưới đây?",
     a: "Vi phạm hình sự",
     b: "Vi phạm dân sự",
@@ -1440,7 +1413,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 161,
+    num: 158,
     q: "Các cá nhân, tổ chức sử dụng đúng đắn các quyền của mình, làm những gì mà pháp luật cho phép làm là nội dung của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -1449,16 +1422,16 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 162,
-    q: "Nguyên nhân cốt lõi của sự ra đời nhà nước là: DNhu cầu về sự cần thiết phải có một tổ chức thay thế thị tộc - bộ lạc",
+    num: 159,
+    q: "Nguyên nhân cốt lõi của sự ra đời nhà nước là:",
     a: "Kết quả của ba lần phân công lao động trong lịch sử",
     b: "Kết quả của nền sản xuất hàng hoá cùng những hoạt động thương nghiệp",
     c: "Nhu cầu về sự cần thiết phải có một tổ chức để dập tắt xung đột giai cấp",
-    d: "",
+    d: "Nhu cầu về sự cần thiết phải có một tổ chức thay thế thị tộc - bộ lạc",
     ans: "c"
   },
   {
-    num: 163,
+    num: 160,
     q: "Tính giai cấp của nhà nước thể hiện ở chỗ:",
     a: "Nhà nước là một bộ máy trấn áp giai cấp",
     b: "Nhà nước là một bộ máy của giai cấp này thống trị giai cấp khác",
@@ -1467,7 +1440,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 164,
+    num: 161,
     q: "Chủ quyền quốc gia là:",
     a: "Quyền độc lập tự quyết của quốc gia trong lĩnh vực đối nội",
     b: "Quyền độc lập tự quyết của quốc gia trong lĩnh vực đối ngoại",
@@ -1476,7 +1449,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 165,
+    num: 162,
     q: "Công dân khi tham gia các quan hệ xã hội đều thực hiện cách xử sự phù hợp với quy định của pháp luật là biểu hiện của…",
     a: "Ban hành pháp luật",
     b: "Xây dựng pháp luật",
@@ -1485,7 +1458,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 166,
+    num: 163,
     q: "Lịch sử xã hội loài người đã tồn tại ...... kiểu nhà nước, bao gồm các kiểu nhà nước là .............",
     a: "4 – chủ nô – phong kiến – tư hữu – XHCN",
     b: "4 – chủ nô – phong kiến – tư sản – XHCN",
@@ -1494,7 +1467,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 167,
+    num: 164,
     q: "Trong các hành vi dưới đây hành vi nào thể hiện công dân áp dụng pháp luật?",
     a: "Người tham gia giao thông không vượt qua ngã tư khi có tín hiệu đèn đỏ",
     b: "Công dân A gửi đơn khiếu nại lên cơ quan nhà nước",
@@ -1503,7 +1476,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 168,
+    num: 165,
     q: "Chọn phương án đúng nhất: Thế nào là người có năng lực trách nhiệm pháp lý?",
     a: "Là người đạt một độ tuổi nhất định theo qui định của pháp luật, có thể nhận thức và điều khiển hành vi của mình",
     b: "Là người không mắc bệnh tâm thần hoặc một bệnh khác làm mất khả năng nhận thức",
@@ -1512,7 +1485,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 169,
+    num: 166,
     q: "Tuân thủ pháp luật là hình thức thực hiện pháp luật, trong đó các cá nhân, tổ chức không làm những điều mà pháp luật…",
     a: "cho phép làm",
     b: "quy định phải làm",
@@ -1521,7 +1494,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 170,
+    num: 167,
     q: "Tính giai cấp của pháp luật thể hiện ở chỗ….",
     a: "Pháp luật là sản phẩm của xã hội có giai cấp",
     b: "Pháp luật là ý chí của giai cấp thống trị",
@@ -1530,7 +1503,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 171,
+    num: 168,
     q: "Nhà nước là:",
     a: "Một tổ chức trong xã hội có giai cấp",
     b: "Một tổ chức xã hội có chủ quyền quốc gia",
@@ -1539,7 +1512,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 172,
+    num: 169,
     q: "Chọn phương án đúng nhất: Hình thức nhà nước là cách tổ chức bộ máy quyền lực nhà nước và phương pháp thực hiện quyền lực nhà nước. Hình thức nhà nước được thể hiện chủ yếu ở ............ khía cạnh; đó là ...................",
     a: "3 – hình thức chính thể, hình thức cấu trúc nhà nước và chế độ KT – XH",
     b: "3 – hình thức chính thể, hình thức cấu trúc và chế độ chính trị",
@@ -1548,7 +1521,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 173,
+    num: 170,
     q: "Người thuê nhà tự sửa chữa, cải tạo nhà mà không hỏi ý kiến của chủ nhà là hành vi…:",
     a: "vi phạm hình sự",
     b: "vi phạm hành chính",
@@ -1557,7 +1530,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 174,
+    num: 171,
     q: "Khả năng nhà nước thừa nhận cho chủ thể bằng hành vi của mình có thể xác lập và thực hiện quyền hoặc nghĩa vụ pháp lý, gọi là?",
     a: "Khả năng hành vi",
     b: "Năng lực pháp luật",
@@ -1566,7 +1539,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 175,
+    num: 172,
     q: "Năng lực pháp luật và năng lực hành vi là những thuộc tính không tách rời của mỗi cá nhân, đều do nhà nước thừa nhận cho họ nên gọi là?",
     a: "Thuộc tính tự nhiên",
     b: "Năng lực pháp lý",
@@ -1575,7 +1548,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 176,
+    num: 173,
     q: "Khẳng định nào sau đây là SAI?",
     a: "Năng lực pháp luật là tiền đề của năng lực hành vi",
     b: "Năng lực hành vi đầy đủ chỉ có ở những chủ thể đáp ứng đầy đủ các điều kiện do pháp luật quy định",
@@ -1584,7 +1557,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 177,
+    num: 174,
     q: "Chọn phương án đùng nhất: Cấu thành của vi phạm pháp luật bao gồm:",
     a: "Giả định, quy định, chế tài",
     b: "Chủ thể, khách thể",
@@ -1593,16 +1566,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 178,
-    q: "Anh A sử dụng điện thoải di động khi đang điều khiển xe máy, công an xử phạt hành chính anh A. Việc làm của công an là biểu hiện của hình thức thực hiện pháp luật nào dưới đây?",
-    a: "Ban hành pháp luật",
-    b: "Tuân thủ pháp luật",
-    c: "Thi hành pháp luật",
-    d: "Áp dụng pháp luật",
-    ans: "d"
-  },
-  {
-    num: 179,
+    num: 175,
     q: "“Pháp luật là hệ thống quy tắc xử sự mang tính ....................., do .................. ban hành và bảo đảm thực hiện, thể hiện ....................... của giai cấp thống trị và phụ thuộc vào các điều kiện .................. là nhân tố điều chỉnh các quan hệ xã hội”.",
     a: "Bắt buộc – quốc hội – ý chí – chính trị",
     b: "Bắt buộc chung – nhà nước – lý tưởng – chính trị",
@@ -1611,7 +1575,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 180,
+    num: 176,
     q: "Chọn phương án đúng nhất: Hình thức pháp luật là cách thức mà giai cấp thống trị sử dụng để nâng ý chí của giai cấp mình lên thành pháp luật. Trong lịch sử loài người đã có ............ hình thức pháp luật, đó là ..................",
     a: "4 – tập quán pháp, tiền lệ pháp, điều lệ pháp và Văn bản quy phạm pháp luật",
     b: "3 – tập quán pháp, tiền lệ pháp, văn bản quy phạm pháp luật",
@@ -1620,7 +1584,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 181,
+    num: 177,
     q: "Chọn phương án đúng nhất: Quy phạm pháp luật là quy tắc xử sự mang tính .................... do ................... ban hành và bảo đảm thực hiện, thể hiện ý chí và bảo vệ lợi ích của giai cấp thống trị để điều chỉnh các ...........................",
     a: "Bắt buộc chung – nhà nước – quan hệ pháp luật",
     b: "Bắt buộc – nhà nước – quan hệ xã hội",
@@ -1629,7 +1593,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 182,
+    num: 178,
     q: "Chọn phương án đúng nhất: Chế tài có các loại nào sau đây?",
     a: "Chế tài hình sự và chế tài hành chính",
     b: "Chế tài hình sự, chế tài hành chính và chế tài dân sự",
@@ -1638,7 +1602,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 183,
+    num: 179,
     q: "Tập quán pháp là:",
     a: "Biến đổi những tục lệ, tập quán có sẵn thành pháp luật",
     b: "Biến đổi những thói quen hành xử của con người trong lịch sử thành pháp luật",
@@ -1647,7 +1611,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 184,
+    num: 180,
     q: "Pháp luật được hiểu là?",
     a: "quy định chung",
     b: "quy tắc xử sự chung",
@@ -1656,7 +1620,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 185,
+    num: 181,
     q: "Người chưa thành niên, theo qui định pháp luật Việt Nam là người chưa đủ…",
     a: "18 tuổi",
     b: "16 tuổi",
@@ -1665,7 +1629,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 186,
+    num: 182,
     q: "Cơ quan thường trực của Quốc hội là:",
     a: "Hội đồng dân tộc",
     b: "Ủy ban Quốc hội",
@@ -1674,7 +1638,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 187,
+    num: 183,
     q: "Ông A vận chuyển gia cầm bị bệnh, bị cơ quan có thẩm quyền phát hiện và buộc phải tiêu hủy hết số gia cầm bị bệnh này. Đây là biện pháp chế tài:",
     a: "Dân sự",
     b: "Hình sự",
@@ -1683,7 +1647,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 188,
+    num: 184,
     q: "“Người nào quảng cáo gian dối về hàng hóa, dịch vụ gây hậu quả nghiêm trọng đã bị xử phạt hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm thì bị phạt tiền từ 10 triệu đến 100 triệu đồng, cải tạo không giam giữ đến 3 năm hoặc bị phạt tù từ 6 tháng đến 3 năm”. Bộ phận giả định là…",
     a: "Người nào quảng cáo gian dối về hàng hóa về dịch vụ",
     b: "Người nào quảng cáo gian dối về hàng hóa dịch vụ gây hậu quả nghiêm trọng",
@@ -1692,7 +1656,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 189,
+    num: 185,
     q: "Nhận định nào sau đây SAI khi đề cập đến chức năng của pháp luật?",
     a: "Pháp luật bảo vệ tất cả các quan hệ xã hội",
     b: "Pháp luật tác động đến các quan hệ xã hội chủ yếu, tạo hành lang pháp lý an toàn cho quan hệ xã hội đó tồn tại, phát triển",
@@ -1701,7 +1665,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 190,
+    num: 186,
     q: "Người lao động đình công theo quy định pháp luật đòi tăng lương, giảm giờ làm, thể hiện vai trò nào sau đây của pháp luật?",
     a: "Pháp luật làm ổn định những quan hệ mới",
     b: "Pháp luật là phương tiện để Nhà nước quản lý mọi mặt đời sống xã hội",
@@ -1710,7 +1674,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 191,
+    num: 187,
     q: "Năng lực của chủ thể bao gồm:",
     a: "Năng lực pháp luật và năng lực hành vi",
     b: "Năng lực pháp luật và năng lực công dân",
@@ -1719,7 +1683,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 192,
+    num: 188,
     q: "Cá nhân, tổ chức thi hành pháp luật tức là thực hiện đầy đủ những nghĩa vụ, chủ động làm những gì mà pháp luật…",
     a: "quy định làm",
     b: "quy định phải làm",
@@ -1728,7 +1692,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 193,
+    num: 189,
     q: "Anh B săn bắt động vật quý hiếm trong rừng. Trong trường hợp này anh B đã…",
     a: "không thi hành pháp luật",
     b: "không sử dụng pháp luật",
@@ -1737,7 +1701,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 194,
+    num: 190,
     q: "Qua kiểm tra cơ quan của anh C phát hiện anh C thường xuyên đi làm muộn và nhiều lần tự ý nghỉ việc không có lí do. Trong trường hợp này, anh C đã…",
     a: "vi phạm dân sự",
     b: "vi phạm hành chính",
@@ -1746,7 +1710,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 195,
+    num: 191,
     q: "Những quy tắc xử sự chung, được áp dụng nhiều lần, ở nhiều nơi, đối với tất cả mọi người, trong mọi lĩnh vực của đời sống xã hội là nội dung đặc trưng nào dưới đây của pháp luật?",
     a: "Tính bắt buộc chung",
     b: "Tính quyền lực",
@@ -1755,7 +1719,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 196,
+    num: 192,
     q: "Sự xuất hiện của nhà nước cổ đại nào sau đây có nguyên nhân là do mâu thuẫn giai cấp gay gắt đến mức không thể điều hòa được:",
     a: "Nhà nước Đại Việt",
     b: "Nhà nước Rôma",
@@ -1764,7 +1728,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 197,
+    num: 193,
     q: "Theo học thuyết Mác – Lênin, nhận định nào sau đây là đúng: thay đổi qua các kiểu nhà nước khác nhau nhà nước khác nhau kiểu nhà nước khác nhau nước là không đổi qua các kiểu nhà nước khác nhau",
     a: "Tính chất giai cấp của nhà nước không đổi nhưng bản chất của nhà nước thì",
     b: "Tính chất giai cấp và bản chất của nhà nước không thay đổi qua các kiểu",
@@ -1773,7 +1737,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 198,
+    num: 194,
     q: "Một công ty xã chất thải ra sông làm cá chết hàng loạt, gây ô nhiễm nặng môi trường. Trách nhiệm pháp lý áp dụng đối với công ty này là:",
     a: "Trách nhiệm hành chính",
     b: "Trách nhiệm hình sự",
@@ -1782,7 +1746,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 199,
+    num: 195,
     q: "Chọn nhận định SAI:",
     a: "Phó thủ tướng không nhất thiết phải là đại biểu Quốc hội",
     b: "Năng lực pháp luật xuất hiện từ khi con người được sinh ra",
@@ -1791,7 +1755,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 200,
+    num: 196,
     q: "Để truy cứu trách nhiệm pháp lý cần xác định?",
     a: "Lỗi của chủ thể vi phạm pháp luật",
     b: "Hành vi trái pháp luật của chủ thể",
@@ -1800,7 +1764,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 201,
+    num: 197,
     q: "Quy định thường gặp trong pháp luật hành chính:",
     a: "Quy định dứt khoát",
     b: "Quy định không dứt khoát",
@@ -1809,7 +1773,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 202,
+    num: 198,
     q: "Hình thức thể hiện của pháp luật là các văn bản có chứa…",
     a: "quy chế chung",
     b: "quy định bắt buộc",
@@ -1818,7 +1782,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 203,
+    num: 199,
     q: "Vi phạm hình sự là…",
     a: "Hành vi rất nguy hiểm cho xã hội",
     b: "Hành vi nguy hiểm cho xã hội",
@@ -1827,7 +1791,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 204,
+    num: 200,
     q: "Nội dung của văn bản quy phạm pháp luật đòi hỏi phải được diễn đạt…",
     a: "chính xác, một nghĩa",
     b: "chính xác, đa nghĩa",
@@ -1836,7 +1800,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 205,
+    num: 201,
     q: "Người nào tuy có điều kiện mà không cứu giúp người đang ở trong tình trạng nguy hiểm đến tính mạng, dẫn đến hậu quả người đó chết, thì…",
     a: "vi phạm pháp luật dân sự",
     b: "phải chịu trách nhiệm hình sự",
@@ -1845,7 +1809,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 206,
+    num: 202,
     q: "Ông B lừa chị C bằng cách mượn của chị 10 triệu đồng nhưng đến ngày hẹn ông B đã không chịu trả cho chị C số tiền trên. Chị C đã làm đơn kiện ông B ra tòa. Việc chị C kiện ông B là hành vi…",
     a: "áp dụng pháp luật",
     b: "tuân thủ pháp luật",
@@ -1854,7 +1818,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 207,
+    num: 203,
     q: "Chọn phương án đúng nhất: Các hình thức thực hiện pháp luật bao gồm:",
     a: "Tuân thủ pháp luật và thực thi pháp luật",
     b: "Tuân thủ pháp luật và sử dụng pháp luật",
@@ -1863,7 +1827,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 208,
+    num: 204,
     q: "Hành vi nào sau đây là vi phạm pháp luật dân sự?",
     a: "Kinh doanh sai ngành nghề đã đăng ký",
     b: "Buôn bán phụ nữ",
@@ -1872,7 +1836,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 209,
+    num: 205,
     q: "Thành phố nào sau đây của Việt Nam không phải là thành phố trực thuộc trung ương:",
     a: "Thành phố Huế",
     b: "Thành phố Cần Thơ",
@@ -1881,7 +1845,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 210,
+    num: 206,
     q: "Phương hướng chính để đề phòng và hạn chế những hành vi vi phạm pháp luật là…",
     a: "xử lý nghiêm minh các hành vi vi phạm pháp luật",
     b: "hoàn chỉnh cơ chế thực thi pháp luật một cách có hiệu quả",
@@ -1890,7 +1854,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 211,
+    num: 207,
     q: "So với pháp luật thì đạo đức có phạm vi điều chỉnh…",
     a: "rộng hơn",
     b: "hẹp hơn",
@@ -1899,7 +1863,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 212,
+    num: 208,
     q: "Chọn phương án đúng nhất: Mặt chủ quan của vi phạm pháp luật gồm?",
     a: "Lỗi cố ý và lỗi vô ý",
     b: "Cố ý trực tiếp và cố ý gián tiếp; vô ý vì quá tự tin và vô ý vì quá cẩu thả",
@@ -1908,7 +1872,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 213,
+    num: 209,
     q: "Quyền công tố trước tòa là:",
     a: "Quyền truy tố cá nhân, tổ chức ra trước pháp luật",
     b: "Quyền khiếu nại, tố cáo của công dân",
@@ -1917,7 +1881,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 214,
+    num: 210,
     q: "Người phải chịu trách nhiệm hành chính do mọi vi phạm hành chính mà mình gây ra theo quy định của pháp luật có độ tuổi là…",
     a: "Từ đủ 18 tuổi trở lên",
     b: "Từ 18 tuổi trở lên",
@@ -1926,7 +1890,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 215,
+    num: 211,
     q: "Vi phạm dân sự là hành vi vi phạm pháp luật, xâm phạm tới…",
     a: "Các quy tắc quản lý nhà nước",
     b: "Các quan hệ tài sản và quan hệ nhân thân",
@@ -1935,7 +1899,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 216,
+    num: 212,
     q: "Người phải chịu trách nhiệm hình sự về mọi tội phạm do mình gây ra có độ tuổi theo quy định của pháp luật là người…",
     a: "từ đủ 14 tuổi trở lên",
     b: "từ đủ 16 tuổi trở lên",
@@ -1944,7 +1908,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 217,
+    num: 213,
     q: "Cơ sở để truy cứu trách nhiệm pháp lý là…",
     a: "hành vi vi phạm pháp luật",
     b: "tính chất phạm tội",
@@ -1953,7 +1917,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 218,
+    num: 214,
     q: "Pháp luật là một trong những phương tiện để nhà nước thực hiện vai trò nào dưới đây?",
     a: "bảo vệ các giai cấp",
     b: "quản lý xã hội",
@@ -1962,7 +1926,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 219,
+    num: 215,
     q: "Đâu là nguyên nhân chính dẫn đến vi phạm pháp luật?",
     a: "Có sự yếu kém trong công tác quản lý xã hội, đôi chỗ còn buông lỏng kỉ cương; giám sát còn mang tính hình thức",
     b: "Mặt trái của nền kinh tế thị trường tác động vào một bộ phận người dân, đặc biệt là giới trẻ",
@@ -1971,7 +1935,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 220,
+    num: 216,
     q: "Đảng lãnh đạo nhà nước thông qua:",
     a: "Đường lối, chủ trương, chính sách của Đảng trong từng thời kỳ",
     b: "Tổ chức Đảng trong các cơ quan nhà nước",
@@ -1980,7 +1944,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 221,
+    num: 217,
     q: "Số lượng tỉnh, thành phố trực thuộc trung ương hiện nay của nước CHXHCN Việt Nam là",
     a: "62",
     b: "63",
@@ -1989,7 +1953,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 222,
+    num: 218,
     q: "Quyền lực và hệ thống tổ chức quyền lực trong xã hội cộng sản nguyên thủy…",
     a: "Hòa nhập vào xã hội và phục vụ lợi ích cho các thành viên trong xã hội",
     b: "Đứng trên xã hội, tách khỏi xã hội và phục vụ lợi ích cho Hội đồng thị tộc, tù trưởng, các thủ lĩnh tôn giáo",
@@ -1998,7 +1962,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 223,
+    num: 219,
     q: "Công dân bình đẳng về trách nhiệm pháp lý là…",
     a: "Công dân ở bất kỳ độ tuổi nào vi phạm pháp luật đều bị xử lý như nhau",
     b: "Công dân nào vi phạm quy định của cơ quan, đơn vị, đều phải chịu trách nhiệm kỷ luật",
@@ -2007,7 +1971,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 224,
+    num: 220,
     q: "Người bị bệnh tâm thần có hành vi trái pháp luật có được xem là vi phạm pháp luật không?",
     a: "Có",
     b: "Không",
@@ -2016,7 +1980,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 225,
+    num: 221,
     q: "Trường hợp nào sau đây thì mới được bắt, giam, giữ người…",
     a: "Bắt người khi đang bị tình nghi có hành vi vi phạm pháp luật",
     b: "Bắt, giam, giữ người khi người này có dấu hiệu nghiện ma tuý",
@@ -2025,7 +1989,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 226,
+    num: 222,
     q: "Trách nhiệm pháp lý là trách nhiệm của:",
     a: "Mọi người",
     b: "Chủ thể vi phạm pháp luật",
@@ -2034,7 +1998,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 227,
+    num: 223,
     q: "Hộ sản xuất – kinh doanh chủ động đăng kí khai thuế và nộp thuế là",
     a: "tuân thủ pháp luật",
     b: "thi hành pháp luật",
@@ -2043,7 +2007,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 228,
+    num: 224,
     q: "Chọn phương án đúng nhất: Đối tượng của vi phạm hành chính là…",
     a: "cá nhân",
     b: "tổ chức",
@@ -2052,16 +2016,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 229,
-    q: "Hành vi vi phạm các quy tắc, quy chế được xác lập trong một tổ chức, cơ quan, đơn vị là…",
-    a: "vi phạm hành chính",
-    b: "vi phạm dân sự",
-    c: "vi phạm kỷ luật",
-    d: "vi phạm hình sự",
-    ans: "c"
-  },
-  {
-    num: 230,
+    num: 225,
     q: "Luật Hiến pháp là một ngành luật chủ đạo trong hệ thống pháp luật Việt Nam vì….",
     a: "Do Quốc hội - cơ quan quyền lực Nhà nước cao nhất ban hành",
     b: "Quy định về những vấn đề cơ bản nhất, quan trọng nhất của Nhà nước",
@@ -2070,7 +2025,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 231,
+    num: 226,
     q: "Độ tuổi được ứng cử vào Quốc hội và Hội đồng nhân dân các cấp theo quy định của pháp luật ở nước ta là?",
     a: "Đủ 18 tuổi trở lên",
     b: "Đủ 19 tuổi trở lên",
@@ -2079,7 +2034,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 232,
+    num: 227,
     q: "Hiến pháp có những đặc trưng khác với các văn bản pháp luật khác ở chỗ nào?",
     a: "Hiến pháp chỉ quy định những vấn đề cơ bản nhất, quan trọng nhất của một Nhà nước, một xã hội làm cơ sở nền tảng cho hệ thống pháp luật",
     b: "Hiến pháp có một phạm vi điều chỉnh rất rộng, trên tất cả các lĩnh vực, các văn bản pháp luật khác có phạm vi điều chỉnh hẹp hơn",
@@ -2088,7 +2043,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 233,
+    num: 228,
     q: "Pháp luật Việt Nam quy định người nào có quyền bầu cử ra cơ quan Quốc hội và Hội đồng nhân dân các cấp?",
     a: "Tất cả công dân Việt Nam",
     b: "Công dân Việt Nam 18 từ tuổi trở lên",
@@ -2097,7 +2052,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 234,
+    num: 229,
     q: "Văn bản pháp luật nào quy định về quyền và nghĩa vụ cơ bản của công dân?",
     a: "Luật Hành chính",
     b: "Luật Dân sự",
@@ -2106,7 +2061,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 235,
+    num: 230,
     q: "Những quyền và nghĩa vụ của công dân được quy định trong?",
     a: "Rất nhiều văn bản pháp luật khác nhau",
     b: "Luật Dân sự",
@@ -2115,7 +2070,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 236,
+    num: 231,
     q: "Hiến pháp Nhà nước Việt Nam quy định: Công dân đủ 21 tuổi trở lên có quyền ứng cử vào cơ quan nào sau đây?",
     a: "Chính phủ",
     b: "Quốc hội và Hội đồng nhân dân các cấp",
@@ -2124,7 +2079,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 237,
+    num: 232,
     q: "Hiến pháp 1992 đã được thay thế bằng Hiến pháp năm nào?",
     a: "Năm 1996",
     b: "Năm 1998",
@@ -2133,7 +2088,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 238,
+    num: 233,
     q: "Hiến pháp được thông qua khi ít nhất có…",
     a: "Một phần hai tổng số đại biểu Quốc hội biểu quyết tán thành",
     b: "Hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành",
@@ -2142,7 +2097,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 239,
+    num: 234,
     q: "Những chức danh nào sau đây bắt buộc phải là đại biểu Quốc hội?",
     a: "Phó Thủ tướng Chính phủ",
     b: "Thủ tướng Chính phủ",
@@ -2151,7 +2106,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 240,
+    num: 235,
     q: "Chọn phương án đúng nhất: Cơ cấu bộ máy Nhà nước Cộng hòa XHCN Việt Nam bao gồm?",
     a: "Quốc hội, Chính phủ, Ủy ban nhân dân các cấp",
     b: "Quốc hội, Viện Kiểm sát nhân dân, Tòa án nhân dân các cấp",
@@ -2160,7 +2115,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 241,
+    num: 236,
     q: "Hệ thống cơ quan quyền lực Nhà nước bao gồm?",
     a: "Quốc hội, Chính phủ",
     b: "Quốc hội, Ủy ban nhân dân các cấp",
@@ -2169,7 +2124,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 242,
+    num: 237,
     q: "Phương tiện nào dưới đây của nhà nước được xem là hiệu quả để quản lý xã hội?",
     a: "Giáo dục",
     b: "Phong tục",
@@ -2178,7 +2133,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 243,
+    num: 238,
     q: "Chính phủ nước Cộng hòa XHCN Việt Nam…",
     a: "Là cơ quan trung tâm của Nhà nước, có thẩm quyền trong cả 3 lĩnh vực lập pháp, hành pháp, tư pháp",
     b: "Là cơ quan Hành chính Nhà nước cao nhất, thực hiện quyền hành pháp, tư pháp",
@@ -2187,7 +2142,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 244,
+    num: 239,
     q: "Chủ thể nào dưới đây sẽ đảm bảo cho pháp luật được thực hiện nghiêm minh?",
     a: "Đảng cộng sản",
     b: "Cơ quan",
@@ -2196,7 +2151,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 245,
+    num: 240,
     q: "Để xử lý người có hành vi xâm hại đến lợi ích của giai cấp cầm quyền, Nhà nước sẽ sử dụng quyền lực có tính cưỡng chế, khẳng định này là nội dung nào dưới đây của pháp luật?",
     a: "Đặc trưng của pháp luật",
     b: "Bản chất của pháp luật",
@@ -2205,7 +2160,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 246,
+    num: 241,
     q: "Phương pháp điều chỉnh của Luật Hành chính là?",
     a: "Phương pháp bình đẳng, thỏa thuận",
     b: "Phương pháp độc lập, tự định đoạt",
@@ -2214,7 +2169,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 247,
+    num: 242,
     q: "Tìm đáp án Sai trong nhận định sau: Các cơ quan Hành chính nhà nước ở Trung ương bao gồm?",
     a: "Chính phủ",
     b: "Ủy ban Thường vụ Quốc hội",
@@ -2223,7 +2178,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 248,
+    num: 243,
     q: "Chọn phương án đúng nhất: Cơ quan Hành chính Nhà nước cấp tỉnh bao gồm?",
     a: "Ủy ban nhân dân tỉnh, các Sở, phòng, ban thuộc Ủy ban nhân dân tỉnh",
     b: "Ủy ban nhân dân tỉnh, Hội đồng nhân dân tỉnh",
@@ -2232,7 +2187,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 249,
+    num: 244,
     q: "Thực hiện pháp luật là quá trình hoạt động có mục đích, làm cho các quy định của pháp luật đi vào cuộc sống, trở thành hành vi…",
     a: "có ích của công dân",
     b: "cơ bản của cá nhân",
@@ -2241,7 +2196,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 250,
+    num: 245,
     q: "Độ tuổi bắt đầu chịu trách nhiệm hành chính là đủ?",
     a: "14 tuổi",
     b: "15 tuổi",
@@ -2250,7 +2205,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 251,
+    num: 246,
     q: "A đã 15 tuổi thực hiện hành vi vi phạm hành chính với lỗi cố ý. Trách nhiệm hành chính đối với A như thế nào?",
     a: "Có thể phạt cảnh cáo hoặc phạt tiền theo quy định của pháp luật",
     b: "Chỉ có thể phạt cảnh cáo theo quy định của pháp luật",
@@ -2259,7 +2214,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 252,
+    num: 247,
     q: "Tìm đáp án đúng trong nhận định sau: C là người chưa thành niên thực hiện hành vi vi phạm hành chính?",
     a: "C sẽ phải chịu trách nhiệm hành chính do lỗi cố ý nếu tuổi C từ đủ 14 đến dưới 16. Nếu C từ đủ 16 tuổi trở lên, có thể phải chịu trách nhiệm hành chính trong mọi trường hợp vi phạm",
     b: "C không phải chịu trách nhiệm hành chính",
@@ -2268,7 +2223,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 253,
+    num: 248,
     q: "Tìm đáp án đúng trong nhận định sau: T 17 tuổi thực hiện hành vi vi phạm hành chính và bị xử phạt tiền?",
     a: "Mức tiền phạt đối với T giống như mức phạt đối với người thành niên",
     b: "Mức tiền phạt đối với T không được quá 1/2 mức phạt đối với người thành niên. Trường hợp T không có tiền nộp phạt thì cha mẹ hoặc người giám hộ T phải nộp phạt thay",
@@ -2277,16 +2232,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 254,
-    q: "Tính quy phạm phổ biến là đặc tính của:",
-    a: "Tập quán",
-    b: "Tôn giáo",
-    c: "Đạo đức",
-    d: "Pháp luật",
-    ans: "d"
-  },
-  {
-    num: 255,
+    num: 249,
     q: "Việc làm là…?",
     a: "Mọi hoạt động lao động trong cơ quan Nhà nước",
     b: "Mọi hoạt động lao động tạo ra thu nhập",
@@ -2295,7 +2241,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 256,
+    num: 250,
     q: "Nội dung nào dưới đây là một trong những nghĩa vụ của nhà sản xuất, kinh doanh phải thực hiện…?",
     a: "Giải quyết tình trạng thất nghiệp",
     b: "Xóa đói giảm nghèo",
@@ -2304,7 +2250,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 257,
+    num: 251,
     q: "Tiền lương là một chế định của ngành luật?",
     a: "Dân sự",
     b: "Hành chính",
@@ -2313,7 +2259,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 258,
+    num: 252,
     q: "Hợp đồng lao động phải có nội dung chủ yếu nào sau đây?",
     a: "Công việc phải làm, thời giờ làm việc, nghỉ ngơi",
     b: "Tiền lương, địa điểm làm việc, thời hạn hợp đồng",
@@ -2322,7 +2268,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 259,
+    num: 253,
     q: "Hợp đồng lao động loại nào có lợi nhất cho người lao động?",
     a: "Hợp đồng có xác định thời hạn",
     b: "Hợp đồng không xác định thời hạn",
@@ -2331,7 +2277,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 260,
+    num: 254,
     q: "Thời giờ làm việc theo quy định của Bộ luật Lao động là?",
     a: "Không quá 10 giờ trong một ngày",
     b: "Từ 8 đến 10 giờ trong một ngày",
@@ -2340,7 +2286,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 261,
+    num: 255,
     q: "Thời giờ làm việc ban đêm theo quy định của Bộ luật Lao động được tính từ?",
     a: "21 giờ đến 4 giờ sáng",
     b: "22 giờ đến 5 giờ sáng",
@@ -2349,7 +2295,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 262,
+    num: 256,
     q: "Nguyên tắc giao kết hợp đồng lao động là?",
     a: "Tự nguyện",
     b: "Thỏa thuận",
@@ -2358,7 +2304,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 263,
+    num: 257,
     q: "Luật Lao động quy định: Đối với hợp đồng lao động không xác định thời hạn, người lao động có quyền đơn phương chấm dứt hợp đồng khi?",
     a: "Báo cho người sử dụng lao động biết trước ít nhất 45 ngày",
     b: "Do ốm đau, đã điều trị 6 tháng nhưng chưa khỏi",
@@ -2367,7 +2313,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 264,
+    num: 258,
     q: "Thủ tục kết hôn theo quy định của Luật Hôn nhân - gia đình Việt Nam là…?",
     a: "Chỉ cần tổ chức tiệc cưới",
     b: "Phải đăng ký kết hôn ở Ủy ban nhân dân nơi bên nam thường trú",
@@ -2376,7 +2322,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 265,
+    num: 259,
     q: "Luật Lao động quy định: Tranh chấp lao động là tranh chấp về quyền và lợi ích phát sinh trong quan hệ lao động giữa?",
     a: "Người lao động với tập thể lao động",
     b: "Tổ chức Công đoàn với người sử dụng lao động",
@@ -2385,7 +2331,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 266,
+    num: 260,
     q: "Khi nghiên cứu về quyền của người sử dụng lao động thì khẳng định nào sau đây là sai?",
     a: "Được tuyển chọn người lao động, bố trí công việc theo quy định của pháp luật",
     b: "Được khen thưởng, xử lí người lao động vi phạm kỉ luật theo quy định của pháp luật",
@@ -2394,7 +2340,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 267,
+    num: 261,
     q: "Người lao động có nghĩa vụ?",
     a: "Chấp hành đúng quy định về an toàn lao động",
     b: "Hoàn thành những công việc được giao trong mọi trường hợp",
@@ -2403,7 +2349,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 268,
+    num: 262,
     q: "Tìm đáp án sai trong nhận định sau: Người có quyền chiếm hữu hợp pháp đối với tài sản là?",
     a: "Chủ sở hữu đối với tài sản đó",
     b: "Chỉ có thể là chủ sở hữu đối với tài sản đó",
@@ -2412,7 +2358,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 269,
+    num: 263,
     q: "Người sử dụng lao động có nghĩa vụ?",
     a: "Thực hiện đúng hợp đồng lao động",
     b: "Bảo đảm an toàn lao động cho người lao động",
@@ -2421,7 +2367,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 270,
+    num: 264,
     q: "Sự thỏa thuận nào làm phát sinh hợp đồng dân sự?",
     a: "Mọi sự thỏa thuận",
     b: "Mọi sự thỏa thuận đuợc lập thành văn bản",
@@ -2430,7 +2376,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 271,
+    num: 265,
     q: "Chọn đáp án đúng: Chủ thể của pháp luật dân sự là cá nhân, có thể là?",
     a: "Công dân Việt Nam",
     b: "Người nước ngoài",
@@ -2439,7 +2385,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 272,
+    num: 266,
     q: "Quyền chiếm hữu, sử dụng và định đoạt tài sản chung phải do…",
     a: "Vợ là người nắm giữ kinh tế nên quyết định",
     b: "Vợ và chồng cùng nhau thỏa thuận",
@@ -2448,7 +2394,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 273,
+    num: 267,
     q: "Quyền sử dụng đối với tài sản là một loại quyền năng của?",
     a: "Quyền chiếm hữu",
     b: "Quyền định đoạt",
@@ -2457,7 +2403,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 274,
+    num: 268,
     q: "Quyền sở hữu đối với tài sản bao gồm?",
     a: "Quyền quyết định số phận của tài sản",
     b: "Quyền nắm giữ, quản lý tài sản",
@@ -2466,16 +2412,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 275,
-    q: "Quyền sử dụng đối với tài sản là một loại quyền năng của?",
-    a: "Quyền chiếm hữu",
-    b: "Quyền định đoạt",
-    c: "Quyền sở hữu",
-    d: "Quyền khai thác lợi ích tài sản",
-    ans: "c"
-  },
-  {
-    num: 276,
+    num: 269,
     q: "Khẳng định nào dưới đây không đúng khi các doanh nghiệp thực hiện bình đẳng trong kinh doanh?",
     a: "Có quyền chủ động mở rộng quy mô sản xuất",
     b: "Có quyền chủ động tìm kiếm thị trường đầu tư",
@@ -2484,7 +2421,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 277,
+    num: 270,
     q: "Tìm đáp án đúng trong tình huống sau: A mua của B một máy vi tính xách tay và không biết đó là đồ do B trộm cắp mà có?",
     a: "A là người chiếm hữu hợp pháp",
     b: "A là người chiếm hữu bất hợp pháp ngay tình",
@@ -2493,7 +2430,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 278,
+    num: 271,
     q: "Việc chiếm hữu của một người với đối với một tài sản nhưng không biết đó là chiếm hữu bất hợp pháp thì?",
     a: "Đều là chiếm hữu hợp pháp",
     b: "Có thể là chiếm hữu bất hợp pháp ngay tình hoặc chiếm hữu bất hợp pháp không ngay tình",
@@ -2502,7 +2439,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 279,
+    num: 272,
     q: "Quyền nào sau đây KHÔNG phải là quyền nhân thân quy định trong Luật Dân sự năm 2015?",
     a: "Quyền được thông tin",
     b: "Quyền xác định lại giới tính",
@@ -2511,7 +2448,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 280,
+    num: 273,
     q: "A ủy quyền cho B bán một ngôi nhà?",
     a: "B có quyền định đoạt đối với ngôi nhà đó",
     b: "B có quyền chiếm hữu đối với ngôi nhà đó",
@@ -2520,7 +2457,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 281,
+    num: 274,
     q: "Tìm đáp án đúng trong các nhận định sau?",
     a: "Mọi hợp đồng dân sự đều phải được lập thành văn bản",
     b: "Mọi hợp đồng dân sự đều phải được lập thành văn bản có công chứng, chứng thực",
@@ -2529,7 +2466,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 282,
+    num: 275,
     q: "Chọn đáp án đúng: Luật Dân sự điều chỉnh những quan hệ nào?",
     a: "Quan hệ nhân thân và quan hệ kinh tế",
     b: "Quan hệ nhân thân và quan hệ tài sản",
@@ -2538,7 +2475,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 283,
+    num: 276,
     q: "Nội dung của quyền sở hữu bao gồm?",
     a: "Quyền chiếm hữu",
     b: "Quyền sử dụng",
@@ -2547,7 +2484,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 284,
+    num: 277,
     q: "Khách thể của quyền sở hữu bao gồm?",
     a: "Tài sản là vật có thực",
     b: "Tiền và giấy tờ trị giá được bằng tiền",
@@ -2556,7 +2493,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 285,
+    num: 278,
     q: "Theo quy định của pháp luật, bình đẳng trong kinh doanh được thực hiện trong quan hệ nào dười đây?",
     a: "Sản xuất",
     b: "Cạnh tranh",
@@ -2565,7 +2502,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 286,
+    num: 279,
     q: "Việc giao kết hợp đồng lao động giữa người lao động và người sử dụng lao động nhằm mục tiêu nào dưới đây trong thực hiện quyền và nghĩa vụ của hai bên?",
     a: "Tạo khung pháp lý",
     b: "Tạo cơ sở pháp lý",
@@ -2574,7 +2511,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 287,
+    num: 280,
     q: "Theo quy định của Luật Hôn nhân - gia đình thì những trường hợp nào sau đây không bị cấm kết hôn?",
     a: "Có quan hệ trong phạm vi ba đời, có cùng dòng máu về trực hệ",
     b: "Kết hôn với người bị nhiễm HIV/AIDS",
@@ -2583,7 +2520,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 288,
+    num: 281,
     q: "Thủ tục kết hôn theo quy định của Luật Hôn nhân - gia đình Việt Nam là?",
     a: "Chỉ cần tổ chức tiệc cưới",
     b: "Phải đăng ký kết hôn ở Ủy ban nhân dân nơi bên nam thường trú",
@@ -2592,7 +2529,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 289,
+    num: 282,
     q: "Khi tìm hiểu về quyền và nghĩa vụ tài sản của vợ chồng thì khẳng định nào sau đây là đúng?",
     a: "Vợ, chồng có trách nhiệm ngang nhau đối với tài sản chung và tài sản riêng của vợ, chồng",
     b: "Vợ chồng có quyền ủy quyền cho nhau trong mọi vấn đề",
@@ -2601,7 +2538,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 290,
+    num: 283,
     q: "Năng lực hành vi đầy đủ của công dân khi tham gia quan hệ tố tụng dân sự là?",
     a: "Người không mắc bệnh tâm thần, chưa thành niên",
     b: "Người không mắc bệnh tâm thần, đủ 16 tuổi trở lên",
@@ -2610,7 +2547,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 291,
+    num: 284,
     q: "Tìm đáp án đúng trong các nhân định sau: A 17 tuổi được hưởng thừa kế một ngôi nhà của cha mẹ?",
     a: "A không thể tự mình ký hợp đồng để bán ngôi nhà mà phải được người giám hộ thay mặt ký",
     b: "A có thể tự mình ký hợp đồng để bán ngôi nhà",
@@ -2619,7 +2556,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 292,
+    num: 285,
     q: "Trình tự, thủ tục giải quyết một vụ án dân sự nói chung là?",
     a: "Thụ lý vụ án - hòa giải - xét xử - thi hành án dân sự",
     b: "Xét xử sơ thẩm - xét xử phúc thẩm - xét lại bản án theo thủ tục giám đốc thẩm, tái thẩm",
@@ -2628,7 +2565,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 293,
+    num: 286,
     q: "Thừa kế là?",
     a: "Sự chuyển quyền sở hữu đối với tài sản của cha mẹ, ông bà cho con, cháu",
     b: "Sự chuyển quyền sở hữu đối với tài sản của người chết cho người thừa kế thông qua ý nguyện cá nhân bằng di chúc hoặc căn cứ vào quy định của pháp luật",
@@ -2637,7 +2574,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 294,
+    num: 287,
     q: "Theo quy định của pháp luật hình sự, hành vi nguy hiểm cho xã hội là hành vi:",
     a: "Gây thiệt hại cho xã hội hoặc đe dọa gây thiệt hại đáng kể cho xã hội",
     b: "Gây thiệt hại lợi ích của xã hội",
@@ -2646,7 +2583,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 295,
+    num: 288,
     q: "Tội phạm là:",
     a: "Hành vi vi phạm pháp luật",
     b: "Hành vi vi phạm pháp luật hình sự, dân sự hoặc hành chính",
@@ -2655,7 +2592,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 296,
+    num: 289,
     q: "Theo quy định của pháp luật Việt Nam, hình phạt được quy định trong:",
     a: "Bộ luật Hình sự",
     b: "Luật xử lý vi phạm hành chính",
@@ -2664,7 +2601,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 297,
+    num: 290,
     q: "Yếu tố nào sau đây là một trong những dấu hiệu cơ bản (đặc điểm) của tội phạm?",
     a: "Trái với đạo đức xã hội",
     b: "Vi phạm pháp luật",
@@ -2673,7 +2610,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 298,
+    num: 291,
     q: "Luật Hình sự quy định về vấn đề nào sau đây?",
     a: "Quy định về tội phạm",
     b: "Quy định về hình phạt",
@@ -2682,7 +2619,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 299,
+    num: 292,
     q: "Hình phạt nào sau đây chỉ được áp dụng đối với người phạm tội là người nước ngoài…",
     a: "Phạt tiền",
     b: "Cảnh cáo",
@@ -2691,7 +2628,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 300,
+    num: 293,
     q: "Doanh nghiệp nhà nước bao gồm các doanh nghiệp do nhà nước nắm giữ ít nhất trên bao nhiêu phần trăm vốn điều lệ:",
     a: "33%",
     b: "50%",
@@ -2700,7 +2637,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 301,
+    num: 294,
     q: "Chọn 1 nhận định đúng:",
     a: "Sĩ quan, hạ sĩ quan chuyên nghiệp trong các đơn vị thuộc công an nhân dân Việt Nam có quyền thành lập và quản lý công ty tại Việt Nam",
     b: "Công ty TNHH 2 thành viên trở lên được quyền phát hành cổ phần",
@@ -2709,7 +2646,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 302,
+    num: 295,
     q: "Căn cứ theo hình thức pháp lý, các loại hình doanh nghiệp ở Việt Nam hiện nay bao gồm:",
     a: "Công ty cổ phần, công ty TNHH, công ty hợp danh, doanh nghiệp tư nhân, hộ kinh doanh.",
     b: "Công ty cổ phần, công ty TNHH, công ty hợp danh",
@@ -2718,7 +2655,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 303,
+    num: 296,
     q: "Hành vi nào của người sử dụng đất không bị Luật Đất đai cấm?",
     a: "Lấn, chiếm, hủy hoại đất",
     b: "Sử dụng đất không đúng mục đích",
@@ -2727,7 +2664,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 304,
+    num: 297,
     q: "Theo Luật Đất đai 2013, trường hợp nào Nhà nước giao đất không thu tiền sử dụng đất?",
     a: "Hộ gia đình, cá nhân được giao đất ở",
     b: "Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối được giao đất nông nghiệp trong hạn mức quy định",
@@ -2736,7 +2673,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 305,
+    num: 298,
     q: "Người sử dụng đất không có quyền nào?",
     a: "Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình",
     b: "Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
@@ -2745,7 +2682,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 306,
+    num: 299,
     q: "Hạn mức giao đất trồng cây hàng năm, đất nuôi trồng thủy sản, đất làm muối cho mỗi hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp là bao nhiêu?",
     a: "Không quá 03 héc ta cho mỗi loại đất đối với tỉnh, thành phố trực thuộc trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long; Không quá 02 héc ta cho mỗi loại đất đối với tỉnh, thành phố trực thuộc trung ương khác",
     b: "Không quá 02 héc ta cho mỗi loại đất đối với tỉnh, thành phố trực thuộc trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long; Không quá 03 héc ta cho mỗi loại đất đối với tỉnh, thành phố trực thuộc trung ương khác",
@@ -2754,7 +2691,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 307,
+    num: 300,
     q: "Theo Luật Đất đai 2013, trường hợp nào Nhà nước cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất?",
     a: "Người đang quản lý, sử dụng đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn",
     b: "Người mua nhà ở, tài sản khác gắn liền với đất",
@@ -2763,7 +2700,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 308,
+    num: 301,
     q: "Theo Luật Đất đai 2013, trường hợp nào Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất theo hình thức đấu giá quyền sử dụng đất?",
     a: "Sử dụng đất để thực hiện dự án đầu tư xây dựng nhà ở tái định cư",
     b: "Sử dụng đất được miễn tiền sử dụng đất, tiền thuê đất theo quy định",
@@ -2772,7 +2709,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 309,
+    num: 302,
     q: "Kể từ ngày nhận được đơn yêu cầu giải quyết tranh chấp đất đai, trong thời hạn bao lâu Ủy ban nhân dân cấp xã phải tiến hành hòa giải tranh chấp đất đai?",
     a: "Không quá 15 ngày",
     b: "Không quá 20 ngày",
@@ -2781,7 +2718,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 310,
+    num: 303,
     q: "Tranh chấp đất đai mà đương sự có Giấy chứng nhận quyền sử dụng đất và đã được hòa giải tại Ủy ban nhân dân cấp xã mà không thành thuộc thẩm quyền giải quyết của cơ quan nào?",
     a: "Ủy ban nhân dân",
     b: "Tòa án nhân dân",
@@ -2790,7 +2727,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 311,
+    num: 304,
     q: "Ông A đang sử dụng một thửa đất (từ năm 2006) nhưng không có giấy tờ gì về đất. Hiện ông có hộ khẩu thường trú tại địa phương (nơi có thửa đất) và trực tiếp sản xuất nông nghiệp tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, nay được Ủy ban nhân dân cấp xã nơi có đất xác nhận là người đã sử dụng đất ổn định, không có tranh chấp. Ông A muốn được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất thì ông A thuộc trường hợp nào dưới đây?",
     a: "Không được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
     b: "Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất và phải nộp tiền sử dụng đất",
@@ -2799,7 +2736,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 312,
+    num: 305,
     q: "Thế nào là tham nhũng?",
     a: "Tham nhũng là hành vi của cán bộ, công chức nhà nước đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
     b: "Tham nhũnglà hành vi lợi dụng chức vụ, quyền hạn để vụ lợi.",
@@ -2808,7 +2745,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 313,
+    num: 306,
     q: "Công dân có quyền gì trong công tác phòng, chống tham nhũng?",
     a: "Công dân chỉ có quyền phát hiện và báo tin về hành vi tham nhũng",
     b: "Công dân chỉ có quyền giám sát việc thực hiện pháp luật về phòng, chống tham nhũng",
@@ -2817,7 +2754,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 314,
+    num: 307,
     q: "Thời hạn định kỳ chuyển đổi vị trí công tác là bao nhiêu năm?",
     a: "Từ đủ 02 năm đến 05 năm theo đặc thù của từng ngành, lĩnh vực",
     b: "Từ đủ 03 năm đến 06 năm theo đặc thù của từng ngành, lĩnh vực",
@@ -2826,7 +2763,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 315,
+    num: 308,
     q: "Những người nào có nghĩa vụ kê khai tài sản?’",
     a: "Cán bộ, công chức nhà nước",
     b: "Sĩ quan Công an nhân dân; sĩ quan Quân đội nhân dân, quân nhân chuyên nghiệp",
@@ -2835,7 +2772,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 316,
+    num: 309,
     q: "Chọn phương án đúng nhất: Theo Luật Phòng, chống tham nhũng, người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức, đơn vị không được bố trí những người nào dưới đây giữ chức vụ quản lý về tổ chức nhân sự, kế toán, làm thủ quỹ, thủ kho trong cơ quan, tổ chức, đơn vị hoặc giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp đồng cho cơ quan, tổ chức, đơn vị đó.",
     a: "Vợ hoặc chồng",
     b: "Vợ hoặc chồng, bố, mẹ, con, anh, chị, em ruột",
@@ -2844,7 +2781,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 317,
+    num: 310,
     q: "Có bao nhiêu hình thức công khai về tổ chức và hoạt động của cơ quan, tổ chức, đơn vị?",
     a: "5 hình thức",
     b: "6 hình thức",
@@ -2853,7 +2790,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 318,
+    num: 311,
     q: "Chọn đáp án đúng:",
     a: "Cá nhân, tổ chức có quyền phản ánh, tố cáo về hành vi tham nhũng",
     b: "Cá nhân, tổ chức có quyền phản ánh về hành vi tham nhũng, cá nhân có quyền tố cáo về hành vi tham nhũng theo quy định của pháp luật",
@@ -2862,7 +2799,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 319,
+    num: 312,
     q: "Thế nào là vụ lợi?",
     a: "Vụ lợi là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó để tham nhũng",
     b: "Vụ lợi là việc công chức lợi dụng chức vụ, quyền hạn nhằm đạt được lợi ích vật chất hoặc lợi ích phi vật chất không chính đáng",
@@ -2871,7 +2808,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 320,
+    num: 313,
     q: "Luật Phòng chống tham nhũng quy định việc tặng quà của cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn như thế nào?",
     a: "Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng, trừ trường hợp tặng quà vì mục đích từ thiện, đối ngoại và trong trường hợp cần thiết khác theo quy định của pháp luật.",
     b: "Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn tuyệt đối không được sử dụng tài chính công, tài sản công làm quà tặng",
@@ -2880,7 +2817,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 321,
+    num: 314,
     q: "Luật Phòng chống tham nhũng quy định việc nhận quà tặng của cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn như thế nào?",
     a: "Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, đơn vị, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý của mình",
     b: "Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn được trực tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, đơn vị, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý của mình",
@@ -2889,7 +2826,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 322,
+    num: 315,
     q: "Luật Phòng chống tham nhũng năm 2018 quy định việc xử lý tài sản tham nhũng như thế nào?",
     a: "Tài sản tham nhũng phải được thu hồ theo quy định của pháp luật",
     b: "Tài sản tham nhũng phải được trả lại cho chủ sở hữu, người quản lý hợp pháp theo quy định của pháp luật",
@@ -2898,7 +2835,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 323,
+    num: 316,
     q: "Người kê khai tài sản, thu nhập phải có nghĩa vụ gì?",
     a: "Người có nghĩa vụ kê khai phải kê khai tài sản, thu nhập và biến động về tài sản, thu nhập của mình",
     b: "Người có nghĩa vụ kê khai phải kê khai tài sản, thu nhập và biến động về tài sản, thu nhập của mình, của vợ hoặc chồng",
@@ -2907,7 +2844,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 324,
+    num: 317,
     q: "Trong phòng chống tham nhũng công tác kiểm tra của cơ quan, tổ chức, đơn vị bao gồm những hình thức nào?",
     a: "Kiểm tra thường xuyên được tiến hành theo chương trình, kế hoạch và tập trung vào lĩnh vực, hoạt động dễ phát sinh tham nhũng",
     b: "Chỉ kiểm tra đột xuất được tiến hành khi phát hiện có dấu hiệu tham nhũng",
@@ -2916,7 +2853,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 325,
+    num: 318,
     q: "Khi phát hiện có hành vi tham nhũng, người đứng đầu cơ quan quản lý nhà nước phải làm gì?",
     a: "kịp thời xử lý theo thẩm quyền hoặc báo cho cơ quan có thẩm quyền xử lý theo quy định của pháp luật",
     b: "kịp thời xử lý theo thẩm quyền",
@@ -2925,7 +2862,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 326,
+    num: 319,
     q: "Chọn đáp án đúng:",
     a: "Người có hành vi tham nhũng giữ bất kì chức vụ, vị trí công tác nào đều phải bị xử lý nghiêm minh theo quy định của pháp luật, kể cả người đã nghỉ hưu, thôi việc, chuyển công tác",
     b: "Người có hành vi tham nhũng giữ bất kì chức vụ, vị trí công tác nào đều phải bị xử lý nghiêm minh theo quy định của pháp luật, kể cả người đã thôi việc, chuyển công tác",
@@ -2934,7 +2871,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 327,
+    num: 320,
     q: "Vi phạm hình sự ở mức độ tội phạm ít nghiêm trọng, khung hình cao nhất là…",
     a: "7 năm",
     b: "5 năm",
@@ -2943,7 +2880,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 328,
+    num: 321,
     q: "Vi phạm hình sự ở mức độ tội phạm rất nghiêm trọng, khung hình cao nhất là…",
     a: "7 năm",
     b: "15 năm",
@@ -2952,7 +2889,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 329,
+    num: 322,
     q: "Vi phạm hình sự ở mức độ tội phạm đặc biệt nghiêm trọng, khung hình cao nhất là…",
     a: "20 năm",
     b: "18 năm",
@@ -2961,7 +2898,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 330,
+    num: 323,
     q: "Những người có hành vi trái pháp luật sẽ bị cơ quan nhà nước có thẩm quyền xử lý theo quy định của pháp luật là thể hiện…?",
     a: "mục đích và pháp luật",
     b: "đặc trưng của pháp luật",
@@ -2970,7 +2907,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 331,
+    num: 324,
     q: "Bạn A thắc mắc tại sao cả Hiến pháp và luật giáo dục đều quy định công dân có quyền và nghĩa vụ học tập? Em sẽ sử dụng đặc trưng nào dưới đây của pháp luật để giải thích cho bạn A?",
     a: "tính quyền lực của pháp luật",
     b: "tính xác định chặt chẽ về hình thức",
@@ -2979,7 +2916,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 332,
+    num: 325,
     q: "Để xử lý người có hành vi xâm hại đến các lợi ích của giai cấp cầm quyền, Nhà nước sẽ sử dụng quyền lực có tính cưỡng chế. Khẳng định này là nội dung nào dưới đây của pháp luật?",
     a: "đặc trưng của pháp luật",
     b: "bản chất của pháp luật",
@@ -2988,7 +2925,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 333,
+    num: 326,
     q: "Pháp luật do nhà nước ban hành phù hợp với ý chí của giai cấp cầm quyền là thể hiện bản chất nào dưới đây của pháp luật?",
     a: "chính trị",
     b: "kinh tế",
@@ -2997,7 +2934,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 334,
+    num: 327,
     q: "Khi đạo đức trở thành nội dung của quy phạm pháp luật thì các giá trị đạo đức được nhà nước bảo đảm thực hiện bằng…",
     a: "sức ép của dư luận xã hội",
     b: "lương tâm của mỗi cá nhân",
@@ -3006,7 +2943,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 335,
+    num: 328,
     q: "Dựa vào nội dung nào dưới đây của pháp luật mà nhà nước có thể kiểm tra, kiểm soát được các hoạt động của mọi công dân?",
     a: "đặc trưng của pháp luật",
     b: "bản chất của pháp luật",
@@ -3015,7 +2952,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 336,
+    num: 329,
     q: "Công dân có thể thực hiện quyền kinh doanh phù hợp với khả năng điều kiện của mình là biểu hiện vai trò nào dưới đây của pháp luật?",
     a: "là phương tiện để nhà nước quản lý xã hội",
     b: "là phương tiện để nhà nước phát huy quyền lực của mình",
@@ -3024,7 +2961,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 337,
+    num: 330,
     q: "Nhờ có luật sư tư vấn nên việc khiếu nại của gia đình ông B đã được giải quyết, trường hợp này đã thể hiện pháp luật là phương tiện để công dân bảo vệ quyền và…",
     a: "nghĩa vụ của mình",
     b: "trách nhiệm của mình",
@@ -3033,7 +2970,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 338,
+    num: 331,
     q: "Nhờ chị S có hiểu biết về pháp luật nên tranh chấp về đất đai giữa gia đình chị với gia đình anh B được giải quyết ổn thỏa, trường hợp này đã thể hiện vai trò nào dưới đây của pháp luật?",
     a: "bảo vệ quyền và lợi ích hợp pháp của công dân",
     b: "bảo vệ tự do ngôn luận và khiếu nại của công dân",
@@ -3042,7 +2979,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 339,
+    num: 332,
     q: "Cửa hàng nhà A bị quản lý thị trường lập biên bản xử lý vì tiêu thụ thực phẩm bẩn, bạn X cho rằng, đặc trưng của pháp luật trong trường hợp này là tính quy phạm phổ biến; H thì khẳng định là tính quyền lực bắt buộc chung; Y nghe được liền nói đó vừa là tính quyền lực bắt buộc chung, vừa là tính xác định chặt chẽ về hình thức. Ý kiến của những ai dưới đây là đúng?",
     a: "H và Y",
     b: "Chỉ H đúng",
@@ -3051,7 +2988,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 340,
+    num: 333,
     q: "Hệ thống quy tắc xử sự chung do nhà nước ban hành và được bảo đảm thực hiện bằng…",
     a: "quy định của nhà nước",
     b: "quyền lực của nhà nước",
@@ -3060,7 +2997,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 341,
+    num: 334,
     q: "Mỗi quy tắc xử sự thường được thể hiện thành…",
     a: "nhiều quy định pháp luật",
     b: "một số quy định pháp luật",
@@ -3069,7 +3006,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 342,
+    num: 335,
     q: "Giá trị công bằng bình đẳng của pháp luật được thể hiện rõ nhất ở đặc trưng nào dưới đây?",
     a: "Tính chặt chẽ, cụ thể về nội dung",
     b: "Tính xác định chặt chẽ về hình thức",
@@ -3078,7 +3015,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 343,
+    num: 336,
     q: "Những người thực hiện không đúng quy định của pháp luật sẽ bị cơ quan có thẩm quyền áp dụng các biện pháp cần thiết để buộc họ phải tuân theo là thể hiện đặc trưng nào dưới đây của pháp luật?",
     a: "Tính quy phạm phổ biến",
     b: "Tính quyền lực bắt buộc chung",
@@ -3087,7 +3024,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 344,
+    num: 337,
     q: "Hình thức thể hiện của pháp luật là các văn bản có chứa…?",
     a: "quy định chung",
     b: "quy định bắt buộc",
@@ -3096,7 +3033,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 345,
+    num: 338,
     q: "Pháp luật mang bản chất giai cấp vì pháp luật do nhà nước ban hành…",
     a: "phù hợp với ý chí của giai cấp cầm quyền",
     b: "phù hợp với lợi ích của tất cả mọi người",
@@ -3105,7 +3042,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 346,
+    num: 339,
     q: "Nội dung của văn bản do cơ quan cấp dưới ban hành trái với nội dung của văn bản do cơ quan cấp trên ban hành là vi phạm đặc trưng nào dưới đây của pháp luật?",
     a: "trình tự ban hành quy phạm pháp luật",
     b: "khả năng đảm bảo việc thi hành pháp luật",
@@ -3114,7 +3051,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 347,
+    num: 340,
     q: "Nội dung của tất cả các văn bản pháp luật đều phải phù hợp không được trái Hiến pháp đề cập đến đặc trưng nào dưới đây của pháp luật?",
     a: "Tính xác định chặt chẽ về mặt hình thức",
     b: "Tính xác định chi tiết về nội dung",
@@ -3123,7 +3060,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 348,
+    num: 341,
     q: "Các quy phạm pháp luật do nhà nước ban hành phải phù hợp với…",
     a: "nguyện vọng của mọi tầng lớp trong xã hội",
     b: "nguyện vọng của giai cấp cầm quyền mà Nhà nước đại diện",
@@ -3132,7 +3069,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 349,
+    num: 342,
     q: "Tại các thành phố, thị trấn nhiều người đi bộ ngang nhiên băng qua đường đi xuống lòng đường bất chấp quy tắc an toàn giao thông gây ra nhiều vụ tai nạn giao thông nghiêm trọng. Từ thực tế này, pháp luật tăng mức xử phạt đối với người đi bộ nếu vi phạm quy định khi tham gia giao thông đường bộ, quy định này thể hiện bản chất nào dưới đây của pháp luật?",
     a: "bản chất văn hóa",
     b: "bản chất xã hội",
@@ -3141,7 +3078,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 350,
+    num: 343,
     q: "Khẳng định nào dưới đây là không đúng khi nói về quan hệ giữa pháp luật với đạo đức?",
     a: "quy phạm pháp luật chủ yếu thể hiện quan niệm về đạo đức",
     b: "pháp luật là phương tiện đặc thù để thể hiện các giá trị đạo đức",
@@ -3150,7 +3087,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 351,
+    num: 344,
     q: "Điểm giống nhau cơ bản giữa pháp luật và đạo đức là…",
     a: "điều chỉnh hành vi để hướng tới các giá trị xã hội",
     b: "thể hiện những quy tắc mang tính bắt buộc chung",
@@ -3159,7 +3096,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 352,
+    num: 345,
     q: "Quyền tự do kinh doanh của công dân và nghĩa vụ của công dân khi thực hiện các hoạt động kinh doanh là nội dung cơ bản của pháp luật về….",
     a: "phát triển kinh tế",
     b: "phát triển văn hóa",
@@ -3168,7 +3105,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 353,
+    num: 346,
     q: "Quyền tự do kinh doanh được hiểu là mọi người được tự do…",
     a: "kinh doanh khi có đủ các điều kiện vật chất",
     b: "kinh doanh trong những ngành nghề pháp luật không cấm",
@@ -3177,7 +3114,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 354,
+    num: 347,
     q: "Quyền tự do kinh doanh có nghĩa là mọi công dân khi có đủ điều kiện do pháp luật quy định đều có quyền tiến hành hoạt động kinh doanh sau khi được cơ quan nhà nước có thẩm quyền…",
     a: "tiếp nhận đăng ký kinh doanh",
     b: "chấp nhận đăng ký kinh doanh",
@@ -3186,7 +3123,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 355,
+    num: 348,
     q: "Nội dung nào dưới đây là điều kiện để công dân tiến hành hoạt động kinh doanh…",
     a: "có đủ năng lực đăng ký kinh doanh",
     b: "được cơ quan nhà nước có thẩm quyền chấp nhận đăng ký kinh doanh",
@@ -3195,7 +3132,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 356,
+    num: 349,
     q: "Chủ thể nào dưới đây không được đăng ký kinh doanh…",
     a: "người chưa thành niên",
     b: "người thành niên",
@@ -3204,7 +3141,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 357,
+    num: 350,
     q: "Nội dung nào dưới đây là một trong những nghĩa vụ mà người sản xuất kinh doanh phải thực hiện…",
     a: "giải quyết việc làm cho lao động tại địa phương",
     b: "bảo vệ môi trường",
@@ -3213,7 +3150,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 358,
+    num: 351,
     q: "Nội dung nào dưới đây là một trong những nghĩa vụ của nhà sản xuất kinh doanh phải thực hiện…",
     a: "giải quyết tình trạng thất nghiệp tại địa phương",
     b: "xóa đói giảm nghèo tại địa phương",
@@ -3222,7 +3159,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 359,
+    num: 352,
     q: "Nội dung nào dưới đây là một trong những nghĩa vụ của nhà sản xuất kinh doanh….",
     a: "kinh doanh đúng ngành nghề ghi trong giấy phép kinh doanh",
     b: "xóa đói giảm nghèo tại địa phương",
@@ -3231,7 +3168,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 360,
+    num: 353,
     q: "Nội dung nào dưới đây là một trong những nghĩa vụ của nhà sản xuất kinh doanh…",
     a: "đảm bảo đầy đủ điều kiện vật chất cho người lao động",
     b: "xóa đói giảm nghèo tại địa phương và vùng phụ cận",
@@ -3240,7 +3177,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 361,
+    num: 354,
     q: "Nội dung nào dưới đây là một trong những nghĩa vụ của nhà sản xuất kinh doanh…",
     a: "đảm bảo đầy đủ điều kiện vật chất cho người lao động",
     b: "xóa đói giảm nghèo tại địa phương",
@@ -3249,7 +3186,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 362,
+    num: 355,
     q: "Nghĩa vụ nào dưới đây rất quan trọng cần được nhà sản xuất kinh doanh thực hiện nghiêm chỉnh…",
     a: "kinh doanh đúng ngành nghề ghi trong giấy phép",
     b: "bảo vệ quyền lợi của nhân dân",
@@ -3258,7 +3195,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 363,
+    num: 356,
     q: "Các quy định pháp luật về giải quyết việc làm xóa đói giảm nghèo là nội dung của pháp luật về lĩnh vực…",
     a: "chính trị",
     b: "kinh tế",
@@ -3267,7 +3204,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 364,
+    num: 357,
     q: "Các quy định pháp luật nhằm kiềm chế sự gia tăng dân số và phòng chống tệ nạn xã hội là nội dung của pháp luật về lĩnh vực…",
     a: "chính trị",
     b: "kinh tế",
@@ -3276,7 +3213,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 365,
+    num: 358,
     q: "Biện pháp nào dưới đây được nhà nước sử dụng để xóa đói giảm nghèo…",
     a: "chăm sóc sức khỏe cho nhân dân",
     b: "tạo ra nhiều việc làm mới",
@@ -3285,7 +3222,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 366,
+    num: 359,
     q: "Công dân có nghĩa vụ thực hiện kế hoạch hóa gia đình xây dựng gia đình ít con, no ấm, bình đẳng, tiến bộ hạnh phúc bền vững là nội dung được quy định trong…",
     a: "Hiến pháp, Luật hôn nhân và gia đình",
     b: "Hiến pháp, Pháp lệnh dân số",
@@ -3294,7 +3231,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 367,
+    num: 360,
     q: "Đấu tranh phòng chống tội phạm, giữ gìn trật tự kỷ cương xã hội, ngăn chặn và bài trừ các tệ nạn xã hội nhất là nạn mại dâm, ma túy là nội dung được quy định trong…",
     a: "Hiến pháp, Luật phòng chống ma túy",
     b: "Hiến pháp, Pháp lệnh phòng chống mại dâm",
@@ -3303,7 +3240,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 368,
+    num: 361,
     q: "Để bảo vệ môi trường những hành vi nào dưới đây bị pháp luật nghiêm cấm…",
     a: "phá hoại, khai thác trái phép rừng, các nguồn tài nguyên thiên nhiên",
     b: "bảo tồn và sử dụng hợp lý tài nguyên thiên nhiên",
@@ -3312,7 +3249,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 369,
+    num: 362,
     q: "Quá trình hoạt động có mục đích, làm cho các quy định của pháp luật đi vào cuộc sống và trở thành những hành vi hợp pháp của các cá nhân, tổ chức là nội dung của khái niệm nào dưới đây?",
     a: "ban hành pháp luật",
     b: "xây dựng pháp luật",
@@ -3321,16 +3258,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 370,
-    q: "Công dân khi tham gia các quan hệ xã hội đều thực hiện cách xử sự phù hợp với quy định của pháp luật là biểu hiện của…",
-    a: "ban hành pháp luật",
-    b: "xây dựng pháp luật",
-    c: "thực hiện pháp luật",
-    d: "phổ biến pháp luật",
-    ans: "c"
-  },
-  {
-    num: 371,
+    num: 363,
     q: "Mục đích của việc ban hành pháp luật là điều chỉnh cách xử sự của công dân theo các quy tắc, cách thức phù hợp với yêu cầu của chủ thể nào dưới đây?",
     a: "tổ chức",
     b: "cộng đồng",
@@ -3339,7 +3267,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 372,
+    num: 364,
     q: "Thực hiện pháp luật là quá trình hoạt động có mục đích, làm cho các quy định của pháp luật đi vào cuộc sống trở thành hành vi…",
     a: "có ích của công dân",
     b: "cơ bản của cá nhân",
@@ -3348,7 +3276,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 373,
+    num: 365,
     q: "Nội dung nào dưới đây không phải là biểu hiện của thực hiện pháp luật…",
     a: "làm những việc mà pháp luật cho phép làm",
     b: "làm những việc mà pháp luật quy định phải làm",
@@ -3357,7 +3285,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 374,
+    num: 366,
     q: "Các cá nhân, tổ chức sử dụng đúng đắn các quyền của mình làm những gì mà pháp luật cho phép làm là nội dung của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -3366,7 +3294,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 375,
+    num: 367,
     q: "Công dân chủ động làm những gì mà pháp luật quy định phải làm là hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -3375,7 +3303,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 376,
+    num: 368,
     q: "Hình thức thực hiện pháp luật nào dưới đây mà chủ thể có quyền lựa chọn làm hoặc không làm?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -3384,7 +3312,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 377,
+    num: 369,
     q: "Công dân được làm những gì mà pháp luật cho phép làm là nội dung của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -3393,7 +3321,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 378,
+    num: 370,
     q: "Các cá nhân, tổ chức thực hiện đầy đủ những nghĩa vụ, chủ động làm những gì mà pháp luật quy định phải làm là hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -3402,7 +3330,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 379,
+    num: 371,
     q: "Sử dụng pháp luật được hiểu là công dân sử dụng đúng đắn các quyền của mình làm những gì mà pháp luật…",
     a: "không cho phép làm",
     b: "cho phép làm",
@@ -3411,7 +3339,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 380,
+    num: 372,
     q: "Thi hành pháp luật là việc các cá nhân tổ chức…",
     a: "chủ động làm những gì mà pháp luật quy định phải làm",
     b: "chủ động không làm những gì mà pháp luật cấm",
@@ -3420,7 +3348,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 381,
+    num: 373,
     q: "Thi hành pháp luật được hiểu là các cá nhân tổ chức thực hiện đầy đủ những nghĩa vụ, chủ động làm những gì mà pháp luật…",
     a: "quy định nên làm",
     b: "không cấm",
@@ -3429,7 +3357,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 382,
+    num: 374,
     q: "Tuân thủ pháp luật được hiểu là việc các cá nhân tổ chức…",
     a: "làm những điều mà pháp luật cho phép",
     b: "làm những điều mà pháp luật bắt buộc",
@@ -3438,7 +3366,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 383,
+    num: 375,
     q: "Việc các cá nhân tổ chức không làm những điều mà pháp luật cấm là biểu hiện của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -3447,7 +3375,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 384,
+    num: 376,
     q: "Áp dụng pháp luật được hiểu là các cơ quan công chức nhà nước có thẩm quyền ra các quyết định làm phát sinh chấm dứt hoặc thay đổi việc thực hiện…",
     a: "quyền và trách nhiệm cụ thể của công dân",
     b: "quyền và nghĩa vụ cụ thể của công dân",
@@ -3456,7 +3384,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 385,
+    num: 377,
     q: "Cơ quan công chức nhà nước có thẩm quyền ban hành các quyết định trong quản lý điều hành là biểu hiện của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -3465,7 +3393,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 386,
+    num: 378,
     q: "Hình thức thực hiện pháp luật nào dưới đây có chủ thể thực hiện khác với các hình thức còn lại?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -3474,7 +3402,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 387,
+    num: 379,
     q: "Việc các cơ quan công chức nhà nước có thẩm quyền ra quyết định làm phát sinh chấm dứt hoặc thay đổi việc thực hiện các quyền, nghĩa vụ cụ thể của công dân là nội dung của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Tuân thủ pháp luật",
     b: "Thi hành pháp luật",
@@ -3483,7 +3411,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 388,
+    num: 380,
     q: "Tuân thủ pháp luật là hình thức thực hiện pháp luật trong đó các cá nhân tổ chức không làm những điều mà pháp luật…?",
     a: "cho phép làm",
     b: "quy định cấm",
@@ -3492,7 +3420,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 389,
+    num: 381,
     q: "Hành vi trái pháp luật, có lỗi do người có năng lực trách nhiệm pháp lý thực hiện xâm hại các quan hệ xã hội được pháp luật bảo vệ là nội dung của khái niệm nào dưới đây?",
     a: "Thực hiện pháp luật",
     b: "Vi phạm pháp luật",
@@ -3501,7 +3429,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 390,
+    num: 382,
     q: "Dấu hiệu nào dưới đây không phải là một trong những căn cứ để xác định một hành vi vi phạm pháp luật…?",
     a: "hành vi chứa đựng lỗi của chủ thể thực hiện",
     b: "hành vi do người có năng lực trách nhiệm pháp lý thực hiện",
@@ -3510,7 +3438,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 391,
+    num: 383,
     q: "Một trong những căn cứ để xác định một hành vi vi phạm pháp luật là hành vi do người…",
     a: "có năng lực trách nhiệm pháp lý thực hiện",
     b: "có thẩm quyền trong cơ quan nhà nước thực hiện",
@@ -3519,7 +3447,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 392,
+    num: 384,
     q: "Dấu hiệu nào dưới đây là một trong những căn cứ để xác định hành vi trái pháp luật?",
     a: "hành vi xâm hại các chuẩn mực xã hội",
     b: "hành vi xâm hại các phong tục tập quán",
@@ -3528,7 +3456,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 393,
+    num: 385,
     q: "Năng lực trách nhiệm pháp lý của cá nhân bao gồm…?",
     a: "độ tuổi và nhận thức",
     b: "độ tuổi và trình độ",
@@ -3537,7 +3465,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 394,
+    num: 386,
     q: "Dấu hiệu nào dưới đây là biểu hiện của hành vi trái pháp luật?",
     a: "công dân làm những việc pháp luật quy định không được làm",
     b: "công dân không làm những việc mà pháp luật cấm",
@@ -3546,7 +3474,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 395,
+    num: 387,
     q: "Hành vi trái pháp luật nào dưới đây do người có năng lực trách nhiệm pháp lý thực hiện?",
     a: "Anh A trong lúc say rượu đánh bạn mình bị thương nặng",
     b: "Em H bị tâm thần nên đã lấy đồ của cửa hàng mà không trả tiền",
@@ -3555,7 +3483,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 396,
+    num: 388,
     q: "Trường hợp nào dưới đây chủ thể không vi phạm pháp luật?",
     a: "cháu hát bị trói tay và bị đổ ma túy đá vào miệng",
     b: "anh B phát hiện kẻ móc túi nhưng không báo với ai",
@@ -3564,7 +3492,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 397,
+    num: 389,
     q: "Nghĩa vụ mà các cá nhân hoặc tổ chức phải gánh chịu hậu quả bất lợi từ hành vi vi phạm pháp luật của mình là nội dung của khái niệm nào dưới đây?",
     a: "trách nhiệm pháp lý",
     b: "nghĩa vụ pháp lý",
@@ -3573,7 +3501,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 398,
+    num: 390,
     q: "Anh A đi xe máy phóng nhanh vượt ẩu nên đâm vào người đi đường làm họ bị chấn thương, tổn hại sức khỏe là 31% và xe máy bị hỏng nặng, trường hợp này anh A phải chịu những loại trách nhiệm pháp lý nào dưới đây?",
     a: "Hình sự và hành chính",
     b: "Dân sự và hành chính",
@@ -3582,7 +3510,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 399,
+    num: 391,
     q: "Hành vi nào dưới đây phải chịu trách nhiệm hình sự?",
     a: "cố ý lây truyền HIV cho người khác",
     b: "điều khiển xe máy đi ngược chiều của của đường một chiều",
@@ -3591,7 +3519,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 400,
+    num: 392,
     q: "Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự về…",
     a: "mọi tội phạm",
     b: "tội phạm nghiêm trọng do vô ý",
@@ -3600,7 +3528,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 401,
+    num: 393,
     q: "Người có hành vi vi phạm hình sự trước hết phải chịu trách nhiệm…",
     a: "Hình sự",
     b: "Hành chính",
@@ -3609,7 +3537,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 402,
+    num: 394,
     q: "Vi phạm hành chính là những hành vi xâm phạm…",
     a: "kỷ luật lao động",
     b: "kỷ luật của tổ chức",
@@ -3618,7 +3546,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 403,
+    num: 395,
     q: "Hình thức khiển trách cảnh cáo chuyển công tác khác khi xâm phạm các quan hệ công vụ nhà nước do pháp luật hành chính bảo vệ được áp dụng với người có hành vi nào dưới đây?",
     a: "vi phạm hành chính",
     b: "vi phạm dân sự",
@@ -3627,7 +3555,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 404,
+    num: 396,
     q: "Vi phạm dân sự là những hành vi vi phạm pháp luật xâm phạm tới quan hệ nào dưới đây?",
     a: "quan hệ sở hữu và quan hệ nhân thân",
     b: "quan hệ sở hữu và quan hệ tình cảm",
@@ -3636,7 +3564,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 405,
+    num: 397,
     q: "Bồi thường thiệt hại về vật chất khi có các hành vi xâm phạm tới các quan hệ tài sản và quan hệ nhân thân được áp dụng với những hành vi vi phạm…?",
     a: "hành chính",
     b: "dân sự",
@@ -3645,7 +3573,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 406,
+    num: 398,
     q: "Vi phạm hành chính là những hành vi vi phạm quy định của pháp luật về quản lý Nhà nước do…?",
     a: "tổ chức kinh tế thực hiện",
     b: "tổ chức chính trị thực hiện",
@@ -3654,7 +3582,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 407,
+    num: 399,
     q: "Cơ quan X bị mất một số tài sản do bảo vệ cơ quan quên không khóa cổng, vậy bảo vệ cơ quan này phải chịu trách nhiệm pháp lý nào dưới đây?",
     a: "trách nhiệm hình sự",
     b: "trách nhiệm dân sự",
@@ -3663,7 +3591,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 408,
+    num: 400,
     q: "Hành vi không lạng lách đánh võng khi đi xe máy trên đường của anh A là biểu hiện hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Tuân thủ pháp luật",
@@ -3672,7 +3600,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 409,
+    num: 401,
     q: "Cảnh sát giao thông xử phạt người chở hàng cồng kềnh khi tham gia giao thông là biểu hiện của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Thi hành pháp luật",
@@ -3681,7 +3609,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 410,
+    num: 402,
     q: "Anh M sử dụng điện thoại di động khi đang điều khiển xe máy. Công an đã xử phạt hành chính anh M việc làm của công an là biểu hiện của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Tuân thủ pháp luật",
     b: "Sử dụng pháp luật",
@@ -3690,7 +3618,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 411,
+    num: 403,
     q: "Hành vi không đội mũ bảo hiểm khi tham gia giao thông trên đường của người điều khiển người ngồi trên xe mô tô là vi phạm hình thức thực hiện pháp luật nào dưới đây?",
     a: "Tuân thủ pháp luật",
     b: "Thi hành pháp luật",
@@ -3699,7 +3627,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 412,
+    num: 404,
     q: "Chị M điều khiển xe máy vượt quá tốc độ cho phép nên đã bị cảnh sát giao thông X lập biên bản và xử phạt hành chính, hành vi của cảnh sát giao thông X là biểu hiện của hình thức thực hiện pháp luật nào dưới đây?",
     a: "Sử dụng pháp luật",
     b: "Áp dụng pháp luật",
@@ -3708,7 +3636,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 413,
+    num: 405,
     q: "Hành vi phạm tội nào không phải xảy ra trên lãnh thổ Việt Nam sau đây?",
     a: "Hành vi phạm tội bắt đầu trên lãnh thổ Việt Nam",
     b: "Hành vi phạm tội diễn ra trên lãnh thổ Việt Nam",
@@ -3717,7 +3645,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 414,
+    num: 406,
     q: "Nhận định nào dưới đây về luật hình sự không đúng?",
     a: "Là một văn bản trong hệ thống pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam",
     b: "Là một ngành luật trong hệ thống pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam",
@@ -3726,7 +3654,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 415,
+    num: 407,
     q: "Luật hình sự có những nguyên tắc nào dưới đây?",
     a: "Nguyên tắc pháp chế XHCN",
     b: "Nguyên tắc dân chủ XHCN",
@@ -3735,16 +3663,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 416,
-    q: "Yếu tố nào sau đây là một trong những dấu hiệu cơ bản (đặc điểm) của tội phạm?",
-    a: "Trái với đạo đức xã hội",
-    b: "Vi phạm pháp luật",
-    c: "Phải đươc quy định trong Bộ luật Hình sự",
-    d: "Phải được quy định trong các văn bản quy phạm pháp luật",
-    ans: "c"
-  },
-  {
-    num: 417,
+    num: 408,
     q: "Đâu là loại tội phạm nghiêm trọng?",
     a: "là tội phạm có tính chất và mức độ nguy hiểm cho xã hội không lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là phạt tiền, phạt cải tạo không giam giữ hoặc phạt tù đến 03 năm",
     b: "là tội phạm có tính chất và mức độ nguy hiểm cho xã hội lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là từ trên 03 năm tù đến 07 năm tù",
@@ -3753,7 +3672,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 418,
+    num: 409,
     q: "Đâu là loại tội phạm rất nghiêm trọng?",
     a: "là tội phạm có tính chất và mức độ nguy hiểm cho xã hội không lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là phạt tiền, phạt cải tạo không giam giữ hoặc phạt tù đến 03 năm",
     b: "là tội phạm có tính chất và mức độ nguy hiểm cho xã hội lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là từ trên 03 năm tù đến 07 năm tù",
@@ -3762,7 +3681,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 419,
+    num: 410,
     q: "Cố ý phạm tội là phạm tội trong những trường hợp sau đây?",
     a: "Người phạm tội tuy thấy trước hành vi của mình có thể gây ra hậu quả nguy hại cho xã hội nhưng cho rằng hậu quả đó sẽ không xảy ra hoặc có thể ngăn ngừa được",
     b: "Người phạm tội không thấy trước hành vi của mình có thể gây ra hậu quả nguy hại cho xã hội, mặc dù phải thấy trước và có thể thấy trước hậu quả đó",
@@ -3771,7 +3690,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 420,
+    num: 411,
     q: "Vô ý phạm tội là phạm tội trong những trường hợp sau đây?",
     a: "Người phạm tội không thấy trước hành vi của mình có thể gây ra hậu quả nguy hại cho xã hội vì vậy cho rằng hậu quả đó sẽ không xảy ra hoặc có thể ngăn ngừa được",
     b: "Người phạm tội không thấy trước hành vi của mình có thể gây ra hậu quả nguy hại cho xã hội, mặc dù phải thấy trước và có thể thấy trước hậu quả đó",
@@ -3780,7 +3699,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 421,
+    num: 412,
     q: "Cơ sở của trách nhiệm hình sự là:",
     a: "Hành vi được Viện kiểm sát cho phạm tội thì phải chịu trách nhiệm sự",
     b: "Có hành vi gây nguy hiểm thì phải chịu trách nhiệm hình sự",
@@ -3789,7 +3708,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 422,
+    num: 413,
     q: "Đâu là dấu hiệu của tội phạm?",
     a: "hành vi nguy hiểm cho xã hội được quy định trong Bộ luật Hình sự",
     b: "hành vi tuy có dấu hiệu của tội phạm nhưng tính chất nguy hiểm cho xã hội không đáng kể",
@@ -3798,7 +3717,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 423,
+    num: 414,
     q: "Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội của hành vi phạm tội được quy định trong Bộ luật Hình sự, tội phạm được phân thành mấy loại?",
     a: "03 loại",
     b: "04 loại",
@@ -3807,7 +3726,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 424,
+    num: 415,
     q: "Nghĩa vụ người lao động, người sử dụng lao động trong việc giải quyết tranh chấp lao động:",
     a: "Cung cấp đầy đủ tài liệu cho cơ quan có thẩm quyền và thi hành mọi quyết định giải quyết tranh chấp của các cơ quan, tổ chức có thẩm quyền",
     b: "Cung cấp đầy đủ tài liệu, thi hành mọi quyết định của cơ quan, tổ chức có thẩm quyền giải quyết tranh chấp",
@@ -3816,7 +3735,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 425,
+    num: 416,
     q: "Quyền của người lao động, người sử dụng lao động trong việc giải quyết tranh chấp lao động:",
     a: "Tham gia trực tiếp hoặc rút đơn không tham gia giải quyết tranh chấp. Có thể cử người đại diện thay mình tham gia quá trình giải quyết tranh chấp",
     b: "Trực tiếp hoặc cử đại diện tham gia giải quyết tranh chấp – Rút đơn, thay đổi nội dung tranh chấp, thay người đại diện",
@@ -3825,7 +3744,7 @@ const QUESTIONS = [
     ans: "b"
   },
   {
-    num: 426,
+    num: 417,
     q: "Hình thức sa thải người lao động chỉ được áp dụng trong trường hợp nào?",
     a: "Người lao động tự ý bỏ việc không có lý do chính đáng, đang bị xử một hình thức kỷ luật mà tái phạm, trộm cắp, tham ô tài sản của doanh nghiệp",
     b: "Trộm cắp, tham ô, tiết lộ bí mật công nghệ – kinh doanh của doanh nghiệp, đang bị kỷ luật chuyển làm việc khác lại tái phạm, tự ý bỏ việc",
@@ -3834,7 +3753,7 @@ const QUESTIONS = [
     ans: "c"
   },
   {
-    num: 427,
+    num: 418,
     q: "Người sử dụng lao động có nghĩa vụ gì đối với người lao động cao tuổi làm việc tại cơ sở của mình?",
     a: "Áp dụng chế độ làm việc mềm dẻo trong một năm trước khi nghỉ hưu. Nếu hưu vẫn tiếp tục làm hợp đồng thì ngoài chế độ hợp đồng mới, vẫn hưởng mọi chế độ như khi chưa hưu (trừ lương)",
     b: "Áp dụng thì giờ làm việc mềm dẻo trong một năm trước khi nghỉ hưu. Có thể tiếp tục sử dụng những người lưu theo chế độ hợp đồng lao động mới",
@@ -3843,7 +3762,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 428,
+    num: 419,
     q: "Người sử dụng lao động có nghĩa vụ gì đối với lao động chưa thành niên làm việc ở cơ sở mình?",
     a: "Giao việc phù hợp với sức khoẻ, có sổ theo dõi riêng, một ngày làm việc không quá 7 tiếng",
     b: "Lao động chưa thành niên là người chưa đến 18 tuổi nên chỉ được giao 1 số việc theo quy định của Bộ Lao động",
@@ -3852,7 +3771,7 @@ const QUESTIONS = [
     ans: "a"
   },
   {
-    num: 429,
+    num: 420,
     q: "Theo Luật Lao động, tiền lương của người lao động được trả như thế nào?",
     a: "Do hai bên thoả thuận trong hợp đồng, mức lương không được thấp hơn mức lương tối thiểu do Nhà nước quy định",
     b: "Trả theo năng suất lao động, chất lượng, hiệu quả công việc, do hai bên thoả thuận",
@@ -3861,7 +3780,7 @@ const QUESTIONS = [
     ans: "d"
   },
   {
-    num: 430,
+    num: 421,
     q: "Cách thức giải quyết tranh chấp lao động:",
     a: "Hai bên tự dàn xếp, thương lượng trực tiếp, thông qua trọng tài hoà giải",
     b: "Thương lượng trực tiếp, thông qua trọng tài hoà giải, tham gia của công đoàn",
