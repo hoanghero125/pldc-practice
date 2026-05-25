@@ -166,7 +166,7 @@ const QUESTIONS = [
     q: "Nhà nước quân chủ hạn chế (quân chủ lập hiến) là nhà nước…? theo phương thức thừa kế thức thừa kế và một cơ quan nhà nước khác",
     a: "Quyền lực nhà nước tối cao thuộc về một cơ quan tập thể và được hình thành",
     b: "Quyền lực nhà nước tối cao thuộc về một cơ quan tập thể do bầu cử mà ra",
-    c: "Quyền lực nhà nước được phân chia cho người đứng đầu nhà nước theo phương",
+    c: "Quyền lực nhà nước được phân chia cho người đứng đầu nhà nước",
     d: "Quyền lực nhà nước thuộc về một tập thể gồm những người quý tộc và được hình thành do thừa kế",
     ans: "c"
   },
